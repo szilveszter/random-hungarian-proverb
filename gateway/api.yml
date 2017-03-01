@@ -1,0 +1,21 @@
+swagger: '2.0'
+info:
+  version: '1.0'
+  title: "{{ apiGateway['name'] }}"
+  description: |
+    API definition of the Random Hungarian Proverb service
+produces:
+  - application/json
+schemes:
+  - https
+paths:
+  /proverb:
+    get:
+      summary: Returns a random Hungarian proverb
+      responses:
+        200:
+          description: Success
+      x-yoke-integration:
+        operation: proverb
+        request-template: default
+        response-template: default

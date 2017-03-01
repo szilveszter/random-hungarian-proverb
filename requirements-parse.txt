@@ -1,0 +1,4 @@
+beautifulsoup4==4.5.3
+bleach==1.5.0
+html5lib==0.9999999
+requests==2.13.0

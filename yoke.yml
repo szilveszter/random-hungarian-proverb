@@ -1,0 +1,20 @@
+Lambda:
+  config:
+    name: randomHungarianProverb
+    description: "Service that returns a random Hungarian proverb with English translation(s)"
+    handler: "handler.lambda_handler"
+    timeout: 300
+    memory: 128
+    ignore: ["/*.pyc"]
+    role: LambdaExecutionRole
+    runtime: python2.7
+  path: './src'
+  extraFiles:
+    - './src/hungarian_proverbs.json'
+apiGateway:
+  name: randomHungarianProverb
+  swaggerTemplate: './gateway/api.yml'
+  role: APIGatewayLambdaInvokeRole
+stages:
+  default: &DEFAULT
+    region: "us-east-1"

@@ -1,0 +1,3274 @@
+[
+    {
+        "eng": "He that says a, should also say b.", 
+        "hun_orig": "Aki á-t mond, mondjon bé-t is."
+    }, 
+    {
+        "eng": "If something is given to you then take it, if you are beaten, then run away.", 
+        "hun_orig": "Ha adnak, vedd el, ha ütnek, szaladj el."
+    }, 
+    {
+        "eng": "It is better to give than to receive.", 
+        "hun_orig": "Jobb adni, mint kapni."
+    }, 
+    {
+        "eng": "He gives twice who gives quickly.", 
+        "hun_orig": "Kétszer ad, aki gyorsan ad."
+    }, 
+    {
+        "eng": "Like greeting, on arrival, like answer.", 
+        "hun_orig": "Amilyen az adjonisten, olyan a fogadjisten."
+    }, 
+    {
+        "eng": "Backwards with the greyhounds.", 
+        "eng_explain": "'Be more modest!'", 
+        "hun_orig": "Hátrább az agarakkal!"
+    }, 
+    {
+        "eng": "As one makes his bed, so he sleeps his dream.", 
+        "hun_orig": "Ki mint veti ágyát, úgy alussza álmát."
+    }, 
+    {
+        "eng": "He shoots at sparrows with a high calibre gun.", 
+        "hun_orig": "Ágyúval lő verebekre."
+    }, 
+    {
+        "eng": "Do not look at the tooth of a gift horse.", 
+        "hun_orig": "Ajándék lónak ne nézd a fogát."
+    }, 
+    {
+        "eng": "He rushes into the house together with the door.", 
+        "eng_explain": "'He tells/does something to somebody without announcement.'", 
+        "hun_orig": "Ajtóstul ront be a házba."
+    }, 
+    {
+        "eng": "If he is thrown out through the door, he enters through the window.", 
+        "hun_orig": "Ha kidobják az ajtón, bemegy az ablakon."
+    }, 
+    {
+        "eng": "One should act as he may, not as he would like to.", 
+        "hun_orig": "Nem amint akarnánk, hanem amint lehet."
+    }, 
+    {
+        "eng": "He would not deserve even the rope for hanging.", 
+        "hun_orig": "Csak akasztásra való istrángot sem érdemelne."
+    }, 
+    {
+        "eng": "He whose place is on the gallows, will not die in the Danube.", 
+        "hun_explain": "(A bűnöst eléri méltó büntetése.)", 
+        "hun_orig": "Kinek akasztófa helye, nem hal a Dunába."
+    }, 
+    {
+        "eng": "He names a rope in the house of a man that was hanged.", 
+        "hun_orig": "Akasztott ember házában kötelet emleget."
+    }, 
+    {
+        "eng": "Opportunity bears the thief.", 
+        "hun_orig": "Alkalom szüli a tolvajt."
+    }, 
+    {
+        "eng": "He has stirred up (or threw a stone into) still water.", 
+        "eng_explain": "'He brought motion in a quiet life.'", 
+        "hun_explain": "- Követ dobott az állóvízbe.", 
+        "hun_orig": "Felkavarta az állóvizet."
+    }, 
+    {
+        "eng": "The apple does not fall far from its tree.", 
+        "hun_orig": "Nem esik messze az alma a fájától."
+    }, 
+    {
+        "eng": "We are not angels.", 
+        "hun_orig": "Nem vagyunk angyalok."
+    }, 
+    {
+        "eng": "Like mother, like daughter.", 
+        "hun_orig": "Amilyen az anya, olyan a leánya."
+    }, 
+    {
+        "eng": "Have a close look at the mother and then marry her daughter.", 
+        "hun_orig": "Nézd meg az anyját, vedd el a lányát."
+    }, 
+    {
+        "eng": "It is difficult to swim against the stream.", 
+        "hun_orig": "Ár ellen nehéz úszni."
+    }, 
+    {
+        "eng": "He who cannot speak Arabic, should not speak Arabic.", 
+        "eng_explain": "'He who has no knowledge/understanding of something, should not engage in (or interfere with) it.'", 
+        "hun_orig": "Aki nem tud arabusul, ne beszéljen arabusul."
+    }, 
+    {
+        "eng": "Gold is gold even in the mud.", 
+        "hun_orig": "Az arany a sárban is arany."
+    }, 
+    {
+        "eng": "To be silent is golden (to speak is silver).", 
+        "hun_orig": "Hallgatni arany (beszélni ezüst)."
+    }, 
+    {
+        "eng": "All is not gold that glitters.", 
+        "hun_orig": "Nem mind arany, ami fénylik."
+    }, 
+    {
+        "eng": "He who gets up early finds gold.", 
+        "hun_orig": "Ki korán kel, aranyat lel."
+    }, 
+    {
+        "eng": "Rust cannot do any harm to gold.", 
+        "eng_explain": "'A man of character is resistant to temptation.'", 
+        "hun_orig": "Nem fog aranyon a rozsda."
+    }, 
+    {
+        "eng": "A golden key fits every door.", 
+        "hun_orig": "Aranykulcs minden ajtóba beillik."
+    }, 
+    {
+        "eng": "Not always that reaps who sows.", 
+        "hun_orig": "Nem mindig az arat, aki vet."
+    }, 
+    {
+        "eng": "This is not my table.", 
+        "eng_explain": "'This is not my duty/responsibility/concern.'", 
+        "eng_explain2": "\"A refusal of doing/dealing with something.\"", 
+        "hun_orig": "Ez nem az én asztalom."
+    }, 
+    {
+        "eng": "Three women (A goose and two women) make a whole fair.", 
+        "hun_orig": "Három asszony (egy lúd, két asszony), egész vásár."
+    }, 
+    {
+        "eng": "A good wife is the crown of the house.", 
+        "hun_orig": "Jó asszony a háznak koronája."
+    }, 
+    {
+        "eng": "A busy women has a lazy daughter, a lazy women has a busy daughter.", 
+        "hun_orig": "Serény asszonynak rest a lánya, rest asszonynak serény a lánya."
+    }, 
+    {
+        "eng": "Believe in women as in the weather in April.", 
+        "hun_orig": "Higgy az asszonynépnek, mint az áprilisi időjárásnak."
+    }, 
+    {
+        "eng": "It is easy to collect ears of corn under/beside a stack.", 
+        "hun_orig": "Könnyű az asztag alatt/mellett kalászt szedni."
+    }, 
+    {
+        "eng": "We do not play 'Return the dolls clothes'.", 
+        "eng_explain": "'I do not agree to cancel a promise/agreement or to return a present given by him.'", 
+        "hun_orig": "Nem játszunk \"add vissza a babaruhát.\""
+    }, 
+    {
+        "eng": "Among many midwives the child is lost.", 
+        "hun_orig": "Sok bába közt elvész a gyerek."
+    }, 
+    {
+        "eng": "The stake of the play is not beans.", 
+        "eng_explain": "'It is a serious matter.'", 
+        "hun_orig": "Nem babra megy a játék."
+    }, 
+    {
+        "eng": "Even an owl is a judge in her cave.", 
+        "hun_orig": "A bagoly is bíró barlangjában."
+    }, 
+    {
+        "eng": "The owl tells the sparrow that her head is big.", 
+        "hun_orig": "Bagoly mondja verébnek, hogy nagyfejű."
+    }, 
+    {
+        "eng": "Trouble does not come alone.", 
+        "hun_orig": "A baj nem jár egyedül."
+    }, 
+    {
+        "eng": "Everyone his own trouble.", 
+        "hun_orig": "Mindenkinek megvan a maga baja."
+    }, 
+    {
+        "eng": "He is flaying the same bock.", 
+        "eng_explain": "(He sings the same old song.)", 
+        "hun_explain": "(A régi nótát fújja.)", 
+        "hun_orig": "Ugyanazon bakot nyúzza."
+    }, 
+    {
+        "eng": "Accidents may happen to anyone.", 
+        "hun_orig": "Mindenkit érhet baleset."
+    }, 
+    {
+        "eng": "He has slipped on a banana-peel.", 
+        "eng_explain": "'By making a small error his secret/illegal activity came into the open.'", 
+        "hun_orig": "Elcsúszott egy banánhéjon."
+    }, 
+    {
+        "eng": "A late repentance is a dogs idea.", 
+        "eng_explain": "(After death the doctor.)", 
+        "hun_orig": "Késő bánat ebgondolat."
+    }, 
+    {
+        "eng": "Luck brings friends, need tries them.", 
+        "hun_orig": "Barátot szerencse hoz, szükség próbál."
+    }, 
+    {
+        "eng": "Tell me who your friend is, I'll tell you who you are.", 
+        "hun_orig": "Mondd meg, ki a barátod megmondom ki vagy."
+    }, 
+    {
+        "eng": "All are not your friends who smile at you.", 
+        "hun_orig": "Nem mind barátod, aki rád mosolyog."
+    }, 
+    {
+        "eng": "His courage sank to his sinews.", 
+        "eng_explain": "'He got frightened.'", 
+        "hun_orig": "Inába szállt a bátorsága."
+    }, 
+    {
+        "eng": "Luck belongs to the brave.", 
+        "hun_orig": "Bátraké a szerencse."
+    }, 
+    {
+        "eng": "It is below the bottom of a frog.", 
+        "eng_explain": "'It is of inferior quality.'", 
+        "hun_orig": "A béka feneke alatt van."
+    }, 
+    {
+        "eng": "He swallows the frog.", 
+        "eng_explain": "'He swallows the bitter pill.'", 
+        "hun_orig": "Lenyeli a békát."
+    }, 
+    {
+        "eng": "Leave others in peace, care for yourself.", 
+        "hun_orig": "Hagyj békét másnak, magadra viselj gondot."
+    }, 
+    {
+        "eng": "Peace is better.", 
+        "eng_explain": "'It is better to refrain from quarrels/contradictions or raising/forcing an argument.'", 
+        "hun_orig": "Jobb a békesség."
+    }, 
+    {
+        "eng": "Like Barnard, he tries to catch the 'heaven's stone' (i. e. the lightning).", 
+        "eng_explain": "He acts in confusion, inconsistently.", 
+        "hun_orig": "Kapkod, mint Bernát a mennykőhöz."
+    }, 
+    {
+        "eng": "He succeeded like Bertók with the loach.", 
+        "eng_explain": "'He lost everything.'", 
+        "hun_explain": "(Mindent elvesztett.)", 
+        "hun_orig": "Nyert benne, mint Bertók a csíkban."
+    }, 
+    {
+        "eng": "In much talk there is much \"bottom\" (i. e. inferior matter).", 
+        "hun_orig": "Sok beszédnek sok az alja."
+    }, 
+    {
+        "eng": "The former highwayman men are the best gendarmes.", 
+        "hun_orig": "A betyárból lesz a legjobb pandúr."
+    }, 
+    {
+        "eng": "His (pocket)-knife was broken in it.", 
+        "eng_explain": "'He tried but failed in a achieving something.'", 
+        "hun_orig": "Beletört a bicskája."
+    }, 
+    {
+        "eng": "The (pocket)-knife opens in my pocket.", 
+        "eng_explain": "'Something has caused anger/despair but one was compelled to stand idly by.'", 
+        "hun_orig": "Kinyílik a bicska a zsebemben."
+    }, 
+    {
+        "eng": "He who is strongest/ablest can devour it.", 
+        "eng_explain": "'The strongest/ablest wins.'", 
+        "hun_orig": "Aki bírja, marja."
+    }, 
+    {
+        "eng": "It is taken by turns like village headmanship.", 
+        "hun_orig": "Sorba megy, mint a falusi bíróság."
+    }, 
+    {
+        "eng": "Where one trusts, there he gets fat.", 
+        "hun_orig": "Ki hol bízik, ott hízik."
+    }, 
+    {
+        "eng": "He explains away his report.", 
+        "eng_explain": "'He tries hard to explain or justify his action or behaviour.'", 
+        "hun_orig": "Magyarázza a bizonyítványát."
+    }, 
+    {
+        "eng": "He issues a certificate of poverty of himself.", 
+        "eng_explain": "'He proves his incapacity.'", 
+        "hun_orig": "Szegénységi bizonyítványt állít ki magáról."
+    }, 
+    {
+        "eng": "There is thick sandal leather on his face.", 
+        "eng_explain": "'He is bluntly shameless.'", 
+        "hun_explain": "(Vastag bőr van a képén.)", 
+        "hun_orig": "Bocskorbőr az orcája."
+    }, 
+    {
+        "eng": "Like Mrs Bodó he talks about something else when asked to pay for the wine.", 
+        "eng_explain": "'Side-stepping an issue.'", 
+        "hun_orig": "Mást beszél, mint Bodóné, mikor a bor árát kérik."
+    }, 
+    {
+        "eng": "Out of a foolish hole a foolish wind blows.", 
+        "eng_explain": "'A fool can tell only foolish things.'", 
+        "hun_orig": "Bolond lyukból bolond szél fúj."
+    }, 
+    {
+        "eng": "A fool stumbles twice at the same stone.", 
+        "hun_orig": "Bolond ütközik kétszer egy kőbe."
+    }, 
+    {
+        "eng": "Fortune favours the fool.", 
+        "hun_orig": "Bolondnak kedvez/jár a szerencse."
+    }, 
+    {
+        "eng": "A fool may throw a stone into a well which a hundred wise cannot take out.", 
+        "hun_orig": "Egy bolond beledobja a kútba a követ, száz okos se veszi ki."
+    }, 
+    {
+        "eng": "One fool makes a hundred.", 
+        "hun_orig": "Egy bolond százat csinál."
+    }, 
+    {
+        "eng": "Wine in, sense out.", 
+        "hun_orig": "Bor be, ész ki."
+    }, 
+    {
+        "eng": "Good wine needs no signboard/bush.", 
+        "hun_orig": "Jó bornak nem kell cégér."
+    }, 
+    {
+        "eng": "He stares at the new gate as a calf.", 
+        "eng_explain": "'He merely looks at something without taking action.'", 
+        "hun_orig": "Bámul, mint borjú az új kapura."
+    }, 
+    {
+        "eng": "He dances on a razor-edge.", 
+        "eng_explain": "'He tries to face danger from two/more sides.'", 
+        "hun_orig": "Borotvaélen táncol."
+    }, 
+    {
+        "eng": "Pepper is small but strong.", 
+        "hun_orig": "Kicsi a bors, de erős."
+    }, 
+    {
+        "eng": "He crushes pepper under the nose of somebody.", 
+        "eng_explain": "'He annoys/irritates somebody.'", 
+        "hun_orig": "Borsot tör valakinek az orra alá."
+    }, 
+    {
+        "eng": "It is like peas thrown against the wall.", 
+        "eng_explain": "'A vain effort.'", 
+        "hun_orig": "Falra hányt borsó."
+    }, 
+    {
+        "eng": "They match as a stick in a quiver.", 
+        "hun_orig": "Úgy illik össze, mint bot a tegezbe."
+    }, 
+    {
+        "eng": "The \"head\" of each stick is at its end.", 
+        "eng_explain": "(Praise a fair day at night.)", 
+        "hun_explain": "(Nyugtával dicsérd a napot.)", 
+        "hun_orig": "Minden botnak a végén a feje."
+    }, 
+    {
+        "eng": "He who greets with a stick, will be answered with a club.", 
+        "hun_orig": "Aki bottal köszön, annak doronggal felelnek."
+    }, 
+    {
+        "eng": "His footprints can be beaten with a stick.", 
+        "eng_explain": "'He managed to escape.'", 
+        "hun_orig": "Bottal üthetik a nyomát."
+    }, 
+    {
+        "eng": "Nobody can slip out of his own skin.", 
+        "eng_explain": "'Nobody can abandon easily his customs/ideas.'", 
+        "hun_orig": "Senki sem tud kibújni a saját bőréből."
+    }, 
+    {
+        "eng": "Every one carries his own skin to the market (i.e. acts at his own risk).", 
+        "hun_orig": "Mindenki a maga bőrét viszi a vásárra."
+    }, 
+    {
+        "eng": "He is one pamphlet behind the others.", 
+        "eng_explain": "'He still thinks/speaks/acts according to the previous guidelines.'", 
+        "hun_orig": "El van maradva egy brosúrával."
+    }, 
+    {
+        "eng": "The castle of Buda was not built in one day.", 
+        "hun_orig": "Nem egy nap alatt épült Buda vára."
+    }, 
+    {
+        "eng": "These was a dog-market in Buda only once.", 
+        "eng_explain": "'This favourable opportunity was a one-time occasion only.'", 
+        "hun_orig": "Egyszer volt Budán kutyavásár."
+    }, 
+    {
+        "eng": "He stumbled upwards.", 
+        "eng_explain": "'After failing in a job he was moved to higher position.'", 
+        "hun_orig": "Felfelé bukott."
+    }, 
+    {
+        "eng": "The purpose consecrates the means.", 
+        "hun_orig": "A cél szentesíti az eszközt."
+    }, 
+    {
+        "eng": "Every gypsy prises his own horse.", 
+        "hun_orig": "Minden cigány a maga lovát dicséri."
+    }, 
+    {
+        "eng": "The gypsy is not accustomed to ploughing.", 
+        "eng_explain": "'He is compelled to do something, he was previously reluctant to do.'", 
+        "hun_orig": "Nem szokta a cigány a szántást."
+    }, 
+    {
+        "eng": "Even if gypsy children are dropped from the sky.", 
+        "eng_explain": "(Come hell or high water.)", 
+        "hun_orig": "Még ha cigánygyerekek potyognak/esnek is az égből."
+    }, 
+    {
+        "eng": "He considers it as straw of the landowner Csáky.", 
+        "eng_explain": "'An expression of negligence instead of due care.'", 
+        "hun_orig": "Csáky szalmájának tekinti."
+    }, 
+    {
+        "eng": "The sky's stone does not strike the nettle.", 
+        "eng_explain": "(Weeds don't spoil.)", 
+        "hun_orig": "Csalánba nem üt a ménkű/mennykő."
+    }, 
+    {
+        "eng": "Give the emperor what is the emperor's and God what is God's.", 
+        "eng_explain": "'Give everyone his due.'", 
+        "hun_orig": "Add meg a császárnak, ami a császáré, és az Istennek, ami az Istené."
+    }, 
+    {
+        "eng": "They have buried the hatchet.", 
+        "hun_orig": "Elásták a csatabárdot."
+    }, 
+    {
+        "eng": "Many drops hollow the stone.", 
+        "hun_orig": "Sok csepp követ váj."
+    }, 
+    {
+        "eng": "There is a tile on the roof.", 
+        "eng_explain": "(Walls have ears.)", 
+        "hun_explain": "(Fiatal/gyerek van jelen, ill. \"a falnak is füle van.\")", 
+        "hun_orig": "Cserép, zsindely van a háztetőn/házon."
+    }, 
+    {
+        "eng": "To an earthenware dish a wooden spoon.", 
+        "eng_explain": "'Marry your match.'", 
+        "hun_orig": "Cseréptálhoz fakanál."
+    }, 
+    {
+        "eng": "He would even lie, there is no star in the sky.", 
+        "eng_explain": "'He is ready to deny even the most obvious truths.'", 
+        "hun_orig": "Lehazudná a csillagokat az égről."
+    }, 
+    {
+        "eng": "If we do nothing (without being ordered to do) no trouble will result from it.", 
+        "hun_orig": "Ha nem csinálok semmit, abból nem lehet baj."
+    }, 
+    {
+        "eng": "I would not wipe my muddy boots in him.", 
+        "eng_explain": "'An expression of utter despise.'", 
+        "hun_orig": "A sáros csizmámat sem törölném hozzá."
+    }, 
+    {
+        "eng": "How could the boots get on the table?", 
+        "eng_explain": "'What has that got to do with it?'", 
+        "eng_explain2": "'An expression of indignant surprise.'", 
+        "hun_orig": "Hogy kerül a csizma az asztalra?"
+    }, 
+    {
+        "eng": "Every wonder lasts three days.", 
+        "hun_orig": "Minden csoda három napig tart."
+    }, 
+    {
+        "eng": "This is already a gnawed bone.", 
+        "eng_explain": "'A matter already discussed several times.'", 
+        "hun_orig": "Ez már lerágott csont."
+    }, 
+    {
+        "eng": "He who comes late gets bones for lunch.", 
+        "hun_orig": "Későn jövőnek csont az ebédje."
+    }, 
+    {
+        "eng": "If it does not trickle, it will drop.", 
+        "eng_explain": "'Even if it is less than expected, still there will be something.'", 
+        "hun_orig": "Ha nem csordul/csurran, cseppen."
+    }, 
+    {
+        "eng": "He got out of the bucket and got into the pail.", 
+        "eng_explain": "(Out of the frying into the fire.)", 
+        "hun_orig": "Csöbörből vödörbe."
+    }, 
+    {
+        "eng": "A little pot quickly boils.", 
+        "hun_orig": "Kicsiny csupor hamar felforr."
+    }, 
+    {
+        "eng": "He puts his hand into a wasp's nest.", 
+        "hun_orig": "Darázsfészekbe nyúl."
+    }, 
+    {
+        "eng": "He would spend even the treasures of Darius.", 
+        "hun_orig": "Elköltené a Dárius kincsét is."
+    }, 
+    {
+        "eng": "Even you are not better than the linen of Deak's wife.", 
+        "eng_explain": "'You are as bad as the others.'", 
+        "hun_orig": "Te sem vagy jobb a Deákné vásznánál."
+    }, 
+    {
+        "eng": "The hoar-frost is still to come for the dog.", 
+        "eng_explain": "'Be sure your sins will find you out!'", 
+        "hun_orig": "Jön még kutyára dér."
+    }, 
+    {
+        "eng": "A three day long merry-making and regret lasting till death.", 
+        "eng_explain": "'A hasty marriage.'", 
+        "hun_orig": "Három napig dínomdánom, holtig való szánom bánom."
+    }, 
+    {
+        "eng": "A nut is good if broken, a woman if beaten.", 
+        "hun_orig": "A dió törve, az asszony verve jó."
+    }, 
+    {
+        "eng": "He keeps silent, like a deaf pig in the wheat-field.", 
+        "hun_orig": "Hallgat, mint a süket disznó a búzában."
+    }, 
+    {
+        "eng": "A hungry pig dreams of acorns.", 
+        "hun_orig": "Éhes disznó makkal álmodik."
+    }, 
+    {
+        "eng": "A clever pig extracts a deep root.", 
+        "eng_explain": "'A clever man achieves remarkable feats.'", 
+        "hun_orig": "Okos disznó mély gyökeret ránt."
+    }, 
+    {
+        "eng": "Do not waste your ginger on pigs.", 
+        "hun_orig": "Disznóra gyömbért ne vesztegess."
+    }, 
+    {
+        "eng": "Nobody is forced to attend the dinner given after killing a pig.", 
+        "eng_explain": "'You are free to refrain from accepting an offer I consider favourable to/for you.'", 
+        "hun_orig": "Nem erőszak a disznótor."
+    }, 
+    {
+        "eng": "Sparrows cannot be caught by beating a drum.", 
+        "hun_orig": "Dobbal nem lehet verebet fogni."
+    }, 
+    {
+        "eng": "He who works has no time to earn money.", 
+        "eng_explain": "'If a job is hard and little paid, then one cannot earn additionally in a second job.'", 
+        "hun_orig": "Aki dolgozik, az nem ér rá pénzt keresni."
+    }, 
+    {
+        "eng": "He that does not work, shall not eat either.", 
+        "hun_orig": "Aki nem dolgozik, ne is egyék."
+    }, 
+    {
+        "eng": "To pull somebody by a wire.", 
+        "eng_explain": "(To pull the strings.)", 
+        "hun_orig": "Dróton rángat valakit."
+    }, 
+    {
+        "eng": "Two pipers cannot get on in one tavern.", 
+        "hun_orig": "Két dudás egy csárdában nem fér meg."
+    }, 
+    {
+        "eng": "It will happen when the Danube reverts its course or dries up.", 
+        "hun_orig": "Akkor lészen az, mikor a Duna visszafoly vagy elszárad."
+    }, 
+    {
+        "eng": "The Danube could be dammed by them.", 
+        "eng_explain": "'There are too many of them.'", 
+        "hun_orig": "Dunát lehetne rekeszteni vele/velük."
+    }, 
+    {
+        "eng": "Two dogs can hardly agree on one bone.", 
+        "hun_orig": "Nehezen alkuszik meg két eb egy csonton."
+    }, 
+    {
+        "eng": "It fell to the thirtieth of dogs.", 
+        "eng_explain": "'Although it is valuable nobody cares for it any more.'", 
+        "hun_orig": "Az ebek harmincadjára kerül/jutott."
+    }, 
+    {
+        "eng": "Gnawing on bones is for dogs having teeth.", 
+        "hun_orig": "Fogas ebnek való a csontrágás."
+    }, 
+    {
+        "eng": "If a dog is driven by a stick after a hare, he will not catch it.", 
+        "hun_orig": "Ha egy ebet bottal hajtanak a nyúl után, nem fogja az meg."
+    }, 
+    {
+        "eng": "He ties the dog to the post.", 
+        "eng_explain": "'He sticks to his position/plan/idea.'", 
+        "hun_orig": "Köti az ebet a karóhoz."
+    }, 
+    {
+        "eng": "A dogs broken bone will soon be healed.", 
+        "eng_explain": "'The wound inflicted will soon be healed.'", 
+        "hun_orig": "Ebcsont beforr."
+    }, 
+    {
+        "eng": "The difference between them is like that between sky and earth.", 
+        "hun_orig": "Ég és föld a különbség (köztük)."
+    }, 
+    {
+        "eng": "Like a thunderstroke from a clear sky.", 
+        "hun_orig": "Mint derült égből a villámcsapás."
+    }, 
+    {
+        "eng": "The flavour of health is given by an illness.", 
+        "hun_orig": "Az egészség ízét a betegség adja meg."
+    }, 
+    {
+        "eng": "The congregation is poor, the priest rings the bell himself.", 
+        "hun_orig": "Szegény az eklézsia, maga harangoz a pap."
+    }, 
+    {
+        "eng": "An elephant in the china shop.", 
+        "hun_orig": "Elefánt a porcelánboltban."
+    }, 
+    {
+        "eng": "We do not live to eat, but we eat to live.", 
+        "hun_orig": "Nem azért élünk, hogy együnk, hanem azért eszünk, hogy éljünk."
+    }, 
+    {
+        "eng": "He who is conceited, will easily be ashamed.", 
+        "hun_orig": "Ki elbízza magát, könnyen megszégyenül."
+    }, 
+    {
+        "eng": "Neither be conceited, nor fall into despair.", 
+        "hun_orig": "Se el ne hidd/bízd magad, se kétségbe ne essél."
+    }, 
+    {
+        "eng": "Life is beautiful if it is hectic.", 
+        "hun_orig": "Akkor/Úgy szép az élet, ha zajlik."
+    }, 
+    {
+        "eng": "I do not want it even for my enemy.", 
+        "hun_orig": "Az ellenségemnek se kívánom."
+    }, 
+    {
+        "eng": "He who is not against us, that is with us.", 
+        "hun_orig": "Aki nincs ellenünk, az velünk van."
+    }, 
+    {
+        "eng": "What's gone, is gone.", 
+        "eng_explain": "(Don't cry over spilt milk.)", 
+        "hun_orig": "Ami elmúlt, elmúlt."
+    }, 
+    {
+        "eng": "As many men as many opinions.", 
+        "hun_orig": "Ahány ember, annyi vélemény."
+    }, 
+    {
+        "eng": "One cannot be cautious enough.", 
+        "hun_orig": "Az ember nem lehet elég óvatos."
+    }, 
+    {
+        "eng": "Man is a wolf to man.", 
+        "hun_orig": "Ember embernek farkasa."
+    }, 
+    {
+        "eng": "Man plans, God decides.", 
+        "hun_orig": "Ember tervez, Isten végez."
+    }, 
+    {
+        "eng": "Man hopes until his death.", 
+        "hun_orig": "Holtig remél az ember."
+    }, 
+    {
+        "eng": "One does not know what he will find tomorrow.", 
+        "hun_orig": "Nem tudja az ember, mire virrad."
+    }, 
+    {
+        "eng": "Many good people can find room in a small space.", 
+        "hun_orig": "Sok jó ember elfér kis helyen."
+    }, 
+    {
+        "eng": "You do not needed a basket to pick well-known strawberries (those living nearby or being quicker have already picked them).", 
+        "hun_orig": "Híres eperre nem kell kosárral menni (a közelebb lakók vagy szemfülesebbek már leszedték rég)."
+    }, 
+    {
+        "eng": "He won't pick strawberries into the basket of somebody else.", 
+        "hun_orig": "Nem szed más kosarába epret."
+    }, 
+    {
+        "eng": "The forest has an ear, the field has an eye.", 
+        "hun_orig": "Az erdőnek füle van, a mezőnek szeme van."
+    }, 
+    {
+        "eng": "As it falls so it plumps.", 
+        "eng_explain": "(As the tree falls, it will lie.)", 
+        "hun_orig": "Ahogy esik, úgy puffan."
+    }, 
+    {
+        "eng": "After rain (comes) raincoat.", 
+        "eng_explain": "(After meat, mustard.)", 
+        "hun_orig": "Eső után köpönyeg."
+    }, 
+    {
+        "eng": "A rain in May is golden.", 
+        "hun_orig": "Májusi eső aranyat ér."
+    }, 
+    {
+        "eng": "One should/could do more by wisdom than by force.", 
+        "hun_orig": "Többet ésszel, mint erővel."
+    }, 
+    {
+        "eng": "He may eat it or not, he won't get anything else.", 
+        "hun_orig": "Eszi, nem eszi, nem kap mást."
+    }, 
+    {
+        "eng": "He does not even know whether it is eaten or drunk.", 
+        "eng_explain": "'He has no idea about it.'", 
+        "hun_orig": "Azt se tudja, eszik-e vagy isszák."
+    }, 
+    {
+        "eng": "Many Eskimos and few seals.", 
+        "hun_orig": "Sok eszkimó, kevés fóka."
+    }, 
+    {
+        "eng": "There is no worthless thing which could not be used something.", 
+        "hun_orig": "Nincs olyan hitvány eszköz, hogy hasznát ne lehetne venni."
+    }, 
+    {
+        "eng": "Appetite comes while eating.", 
+        "hun_orig": "Evés közben jön meg az étvágy."
+    }, 
+    {
+        "eng": "This is (what we have/experience), this is to be liked.", 
+        "hun_orig": "Ez van, ezt kell szeretni."
+    }, 
+    {
+        "eng": "Like tree, like fruit.", 
+        "hun_orig": "Amilyen a fa, olyan a gyümölcse."
+    }, 
+    {
+        "eng": "He cut his axe into a big tree.", 
+        "eng_explain": "(A hard venture.)", 
+        "hun_orig": "Nagy fába vágta a fejszéjét."
+    }, 
+    {
+        "eng": "An iron ring made of wood.", 
+        "eng_explain": "'An absurdity.'", 
+        "hun_orig": "Fából vaskarika."
+    }, 
+    {
+        "eng": "He was carved of hard wood.", 
+        "eng_explain": "'He is strong/steadfast.'", 
+        "hun_orig": "Kemény fából faragták."
+    }, 
+    {
+        "eng": "Even a good tree has (sometimes) bad fruit.", 
+        "hun_orig": "Jó fának is van rossz gyümölcse."
+    }, 
+    {
+        "eng": "A tree is not felled at one stroke.", 
+        "hun_orig": "A fát nem vágják ki egy csapásra/vágásra."
+    }, 
+    {
+        "eng": "Bend the tree while it is a twig.", 
+        "hun_orig": "Addig hajtsd a fát, míg vessző."
+    }, 
+    {
+        "eng": "He cuts the tree under himself.", 
+        "hun_orig": "Maga alatt vágja a fát."
+    }, 
+    {
+        "eng": "He has put bad wood on the fire.", 
+        "eng_explain": "(He has got into mischief.)", 
+        "hun_orig": "Rossz fát tett a tűzre."
+    }, 
+    {
+        "eng": "He cannot see the wood for the trees.", 
+        "hun_orig": "Nem látja a fától az erdőt."
+    }, 
+    {
+        "eng": "The trees do not grow up to the sky.", 
+        "hun_orig": "Nem nőnek a fák az égig."
+    }, 
+    {
+        "eng": "The horse has to pull as the horse is also pulled.", 
+        "eng_explain": "'He who gets orders from his superiors, has to pass them on to his subordinates.'", 
+        "hun_explain": "(Akitől az elöljárói megkövetelnek valamit, az is kénytelen követelni a beosztottaitól.)", 
+        "hun_orig": "A fakónak muszáj húzni, mert a fakót is húzzák."
+    }, 
+    {
+        "eng": "Even the wall has an ear.", 
+        "hun_orig": "A falnak is füle van."
+    }, 
+    {
+        "eng": "The wolf may change its hair but not its nature.", 
+        "eng_explain": "(The wolf may lose his teeth, but never his nature/memory.) *", 
+        "hun_orig": "A farkas a szőrét elhányja, de a szokását nem."
+    }, 
+    {
+        "eng": "When a wolf is mentioned, he is already walking round the garden.", 
+        "hun_orig": "Farkast emlegetnek, a kert alatt kullog/jár."
+    }, 
+    {
+        "eng": "The wolf/dog does not eat the winter.", 
+        "hun_orig": "Nem eszi meg a farkas/kutya a telet."
+    }, 
+    {
+        "eng": "The tail wags the dog.", 
+        "eng_explain": "'The normal order is reversed, e. g. those give orders who are expected to obey.'", 
+        "hun_orig": "A farok csóválja a kutyát."
+    }, 
+    {
+        "eng": "A new pot retains its first scent.", 
+        "eng_explain": "(The cask savours of the first fill.)", 
+        "hun_orig": "Az új fazék megtartja első szagát."
+    }, 
+    {
+        "eng": "Every man kindles the fire below his own pot.", 
+        "hun_explain": "(Minden szentnek maga felé hajlik a keze.)", 
+        "hun_orig": "Minden ember az ő maga fazeka mellé szít."
+    }, 
+    {
+        "eng": "One swallow does not make a summer.", 
+        "hun_orig": "Egy fecske nem csinál nyarat."
+    }, 
+    {
+        "eng": "He who has not (enough wit) in the head, should have (force, to replace it) in the leg.", 
+        "hun_orig": "Akinek nincs a fejében, legyen a lábában."
+    }, 
+    {
+        "eng": "He hits the nail on the head.", 
+        "hun_orig": "Fején találja a szöget."
+    }, 
+    {
+        "eng": "The waves dash over his head.", 
+        "eng_explain": "'He is unable to cope with the situation any longer.'", 
+        "hun_orig": "Összecsapnak a feje fölött a hullámok."
+    }, 
+    {
+        "eng": "A bent head is not touched by the sword.", 
+        "hun_orig": "Lehajtott fejet nem éri a kard."
+    }, 
+    {
+        "eng": "There is no point in running one's head against the wall.", 
+        "hun_orig": "Nem jó fejjel menni/rohanni a falnak."
+    }, 
+    {
+        "eng": "The helve of the lost hatchet.", 
+        "eng_explain": "'A little gain in a great loss.'", 
+        "hun_orig": "Veszett fejsze nyele."
+    }, 
+    {
+        "eng": "It is better to fear (something) than to get frightened.", 
+        "hun_orig": "Jobb félni, mint megijedni."
+    }, 
+    {
+        "eng": "Better to return from half-way than to take a wrong road.", 
+        "hun_orig": "Jobb félútról visszatérni, mint rossz útra térni."
+    }, 
+    {
+        "eng": "Let the wormy of it drop off.", 
+        "eng_explain": "'Let those perish/leave who are not up to the standard.'", 
+        "hun_orig": "Hadd hulljon a férgese."
+    }, 
+    {
+        "eng": "It is better to get fillérs often than forints seldom.", 
+        "hun_orig": "Jobb a sűrű fillér, mint a ritka forint."
+    }, 
+    {
+        "eng": "Until we are only poorly paid, we shall also poorly work.", 
+        "hun_orig": "Amíg nekünk csak fizetgetnek, addig mi is csak dolgozgatunk."
+    }, 
+    {
+        "eng": "He who has a toothache, should keep/hold his tongue on it.", 
+        "eng_explain": "'Help yourself.'", 
+        "hun_explain": "(Segíts magadon.)", 
+        "hun_orig": "Akinek a foga fáj, tartsa a nyelvét rajta."
+    }, 
+    {
+        "eng": "He whets his teeth on something.", 
+        "eng_explain": "'He is very eager to get something.'", 
+        "hun_orig": "Feni a fogát valamire."
+    }, 
+    {
+        "eng": "He shows the whiteness of his teeth.", 
+        "eng_explain": "(He shows himself in his true colours.)", 
+        "hun_orig": "Kimutatja a foga fehérjét."
+    }, 
+    {
+        "eng": "Let us take it (into our hands) and then you carry it!", 
+        "eng_explain": "'Somebody is urging others to work without wishing to take part in it.'", 
+        "hun_orig": "Fogjuk meg és vigyétek."
+    }, 
+    {
+        "eng": "The thread/string/rope breaks where it is thinnest.", 
+        "hun_orig": "Ott szakad a fonal/madzag/kötél, ahol a legvékonyabb."
+    }, 
+    {
+        "eng": "He left for Földvár to sell boards.", 
+        "eng_explain": "'He died.'", 
+        "hun_orig": "Elment Földvárra deszkát árulni (meghalt)."
+    }, 
+    {
+        "eng": "What you have cooked, you should eat as well.", 
+        "eng_explain": "'You have to take the responsibility for your action.'", 
+        "hun_orig": "Amit főztél, edd is meg!"
+    }, 
+    {
+        "eng": "Running away is a shame, but it is useful.", 
+        "hun_orig": "Szégyen a futás, de hasznos."
+    }, 
+    {
+        "eng": "In at one ear and out at the other.", 
+        "hun_orig": "Egyik fülén be, a másikon ki."
+    }, 
+    {
+        "eng": "It has neither an ear, nor a tail.", 
+        "eng_explain": "(It has neither rhyme nor reason.)", 
+        "eng_explain2": "'It makes no sense.'", 
+        "hun_orig": "Se füle, se farka."
+    }, 
+    {
+        "eng": "Where there is smoke, there is fire.", 
+        "hun_orig": "Ahol füst van, ott tűz is van."
+    }, 
+    {
+        "eng": "It went into smoke.", 
+        "eng_explain": "'Nothing was realised/achieved.'", 
+        "hun_orig": "Füstbe ment."
+    }, 
+    {
+        "eng": "Its smoke is bigger than the flame.", 
+        "eng_explain": "'It is not so serious.'", 
+        "hun_orig": "Nagyobb a füstje, mint a lángja."
+    }, 
+    {
+        "eng": "A roast pigeon will not fly into one's mouth.", 
+        "hun_orig": "Senkinek sem repül szájába a sült galamb."
+    }, 
+    {
+        "eng": "Where there are many masters the servant becomes mad.", 
+        "hun_orig": "Ahol sok a gazda, bolond a szolga."
+    }, 
+    {
+        "eng": "A clever master turns even a loss into a gain.", 
+        "hun_orig": "Az okos gazda a kárt is jóra fordítja."
+    }, 
+    {
+        "eng": "He reckons without his host.", 
+        "hun_orig": "Gazda nélkül csinálja a számítást."
+    }, 
+    {
+        "eng": "The master's eye makes the animals fat.", 
+        "hun_orig": "Gazda szeme hizlalja a jószágot."
+    }, 
+    {
+        "eng": "He was snatched by the belt.", 
+        "eng_explain": "'He could not resist the temptation of well-being in return for yielding from strict moral standards.'", 
+        "hun_orig": "Elkapta a gépszíj."
+    }, 
+    {
+        "eng": "He makes someone else get he chestnut from the fire (glowing embers).", 
+        "hun_orig": "Mással kapartatja ki a gesztenyét a tűzből/parázsból."
+    }, 
+    {
+        "eng": "He sews the jacket to the button.", 
+        "eng_explain": "'Something is made after having a negligible part of if only.'", 
+        "hun_orig": "A gombhoz varrja a kabátot."
+    }, 
+    {
+        "eng": "He danced bound hand and foot.", 
+        "eng_explain": "'He tries hard but has very little freedom of movement or action.'", 
+        "hun_orig": "Gúzsba kötve táncol."
+    }, 
+    {
+        "eng": "Practice makes the master.", 
+        "hun_orig": "Gyakorlat teszi a mestert."
+    }, 
+    {
+        "eng": "Coward people have no country (of their own).", 
+        "hun_orig": "Gyáva népnek nincs hazája."
+    }, 
+    {
+        "eng": "A child, a drunkard and a fool tell the truth.", 
+        "hun_orig": "Gyermek, részeg, bolond mondják az igazat."
+    }, 
+    {
+        "eng": "The child is dead the godfathership has ended.", 
+        "hun_orig": "Meghalt a gyermek, oda a komaság."
+    }, 
+    {
+        "eng": "Small child - small trouble, big child - big trouble.", 
+        "hun_orig": "Kisgyerek - kis gond, nagy gyerek - nagy gond."
+    }, 
+    {
+        "eng": "One need not throw out the child with the bath-water.", 
+        "hun_orig": "Nem kell a gyereket a fürdővízzel kiönteni."
+    }, 
+    {
+        "eng": "Even the mother cannot understand the words of a dumb child.", 
+        "hun_orig": "Néma gyereknek az anyja sem érti a szavát."
+    }, 
+    {
+        "eng": "Forbidden fruit is sweeter.", 
+        "hun_orig": "Tiltott gyümölcs édesebb."
+    }, 
+    {
+        "eng": "\"Szolgálatban a rokonság/ismeretség nem számít.\"", 
+        "eng_explain": "In the army there is no Uncle Peter.", 
+        "hun_orig": "Nincs a hadban semmi Péter bátya."
+    }, 
+    {
+        "eng": "Long hair, short wit.", 
+        "hun_orig": "Hosszú haj, rövid ész."
+    }, 
+    {
+        "eng": "Rats desert a sinking ship.", 
+        "hun_orig": "A süllyedő hajót elhagyják a patkányok."
+    }, 
+    {
+        "eng": "They are rowing in the same ship.", 
+        "eng_explain": "(They are in then same boat.)", 
+        "hun_orig": "Egy hajóban eveznek."
+    }, 
+    {
+        "eng": "The big fish eats the little fish.", 
+        "hun_orig": "A nagy hal megeszi a kis halat."
+    }, 
+    {
+        "eng": "Fish stinks from the head on.", 
+        "hun_orig": "Fejétől bűzlik a hal."
+    }, 
+    {
+        "eng": "There is no medicine against death.", 
+        "hun_orig": "Halál ellen nincs orvosság."
+    }, 
+    {
+        "eng": "He would be good for death.", 
+        "eng_explain": "'He always arrives late.'", 
+        "hun_orig": "Jó volna halálnak."
+    }, 
+    {
+        "eng": "Hear and see much, say little.", 
+        "hun_orig": "Sokat hallj, láss, keveset szólj."
+    }, 
+    {
+        "eng": "What we keep silence about, does not exist.", 
+        "hun_orig": "Amiről hallgatunk, az nincs is."
+    }, 
+    {
+        "eng": "Silence (means) consent.", 
+        "hun_orig": "A hallgatás beleegyezés."
+    }, 
+    {
+        "eng": "There will be no \"funeral with songs\" out of this/it.", 
+        "eng_explain": "'This effort will end in failure.'", 
+        "hun_orig": "Nem lesz belőle énekes halott."
+    }, 
+    {
+        "eng": "It was needed as a Slovak glazier needed falling on his back.", 
+        "eng_explain": "'A most unwanted event.'", 
+        "hun_orig": "Úgy kellett/hiányzott ez, mint ablakos/üveges tótnak a hanyattesés."
+    }, 
+    {
+        "eng": "Anger is a bad counsellor.", 
+        "hun_orig": "A harag rossz tanácsadó."
+    }, 
+    {
+        "eng": "Postpone today's anger till tomorrow.", 
+        "hun_orig": "A mai haragod halaszd holnapra."
+    }, 
+    {
+        "eng": "The dry leaves do not rustle if no wind blows.", 
+        "eng_explain": "(No smoke without fire.)", 
+        "hun_orig": "Nem zörög a haraszt, ha nem fúj a szél."
+    }, 
+    {
+        "eng": "The Hungarian justice is three.", 
+        "eng_explain": "'E. g. One should drink three times.'", 
+        "hun_orig": "Három a magyar igazság."
+    }, 
+    {
+        "eng": "Peel (the inner bark of) the lime tree until it peels.", 
+        "eng_explain": "(Strike the iron while it is hot.)", 
+        "hun_explain": "(Addig üsd a vasat, míg meleg.)", 
+        "hun_orig": "Addig hántsd a hársat/hársfát, míg hámlik."
+    }, 
+    {
+        "eng": "Fair words are not enough to an empty belly.", 
+        "hun_orig": "Üres hasnak nem elég a szép szó."
+    }, 
+    {
+        "eng": "I wish to see him when I see the middle of my back (i. e. never).", 
+        "hun_orig": "Akkor lássam, amikor a hátam közepét."
+    }, 
+    {
+        "eng": "The limits is the starlit sky.", 
+        "eng_explain": "'There is no limit (e. g. in setting some prices).'", 
+        "hun_orig": "A határ a csillagos ég."
+    }, 
+    {
+        "eng": "There is a limit to everything.", 
+        "hun_orig": "Mindennek van határa."
+    }, 
+    {
+        "eng": "So many houses, so many customs.", 
+        "hun_orig": "Ahány ház, annyi szokás."
+    }, 
+    {
+        "eng": "What was stolen by the house, will be returned by it.", 
+        "eng_explain": "'Something mislaid somewhere will be found later.'", 
+        "hun_orig": "Amit a ház ellop, elő is adja."
+    }, 
+    {
+        "eng": "Many homes burn inside but it is not seen outside.", 
+        "hun_orig": "Sok ház ég belül, de nem látszik kívül."
+    }, 
+    {
+        "eng": "My house is my castle.", 
+        "hun_orig": "Az én házam az én váram."
+    }, 
+    {
+        "eng": "Each should sweep before his own house.", 
+        "hun_orig": "Mindenki a maga háza előtt söpörjön."
+    }, 
+    {
+        "eng": "He goes to see fire in the house.", 
+        "eng_explain": "'A visit to the home of a future wife.'", 
+        "hun_orig": "Háztűznézőbe megy."
+    }, 
+    {
+        "eng": "He that lies also steals.", 
+        "hun_orig": "Aki hazudik, az lop is."
+    }, 
+    {
+        "eng": "He who once ventures to lie, deserves no more confidence.", 
+        "hun_orig": "Aki egyszer hazudni mer, többet hitelt nem érdemel."
+    }, 
+    {
+        "eng": "He lies as if he read from a book.", 
+        "hun_orig": "Úgy hazudik, mintha könyvből olvasná."
+    }, 
+    {
+        "eng": "A liar is caught sooner than a lame dog.", 
+        "hun_orig": "A hazugot hamarabb utolérik, mint a sánta kutyát."
+    }, 
+    {
+        "eng": "A liar is not believed even if he tells the truth.", 
+        "hun_orig": "Akkor se hisznek a hazugnak, mikor igazat mond."
+    }, 
+    {
+        "eng": "Mountain does not meet mountain but man does meet man.", 
+        "hun_orig": "Hegy heggyel nem találkozik, de ember emberrel igen."
+    }, 
+    {
+        "eng": "Only those make no errors, who do not work at all.", 
+        "hun_orig": "Csak az nem követ el hibát, aki nem dolgozik."
+    }, 
+    {
+        "eng": "There are still (some) errors.", 
+        "eng_explain": "'An answer to a complaint. It implies the refusal of the search for the reasons of the errors.'", 
+        "hun_orig": "Vannak még hibák."
+    }, 
+    {
+        "eng": "Bad news proceeds by wings, good news hardly walks.", 
+        "hun_orig": "A rossz hír szárnyon jár, a jó alig kullog."
+    }, 
+    {
+        "eng": "He who readily believes, will be readily disappointed.", 
+        "hun_orig": "Aki könnyen hisz, könnyen csalatkozik."
+    }, 
+    {
+        "eng": "Where is by now the snow of last year?", 
+        "eng_explain": "'This is already past history (or out of date)!'", 
+        "hun_orig": "Hol van már a tavalyi hó?"
+    }, 
+    {
+        "eng": "His snow-boots are full.", 
+        "eng_explain": "(He is fed up with the matter.)", 
+        "hun_orig": "Tele van a hócipője."
+    }, 
+    {
+        "eng": "The hangman is being hanged.", 
+        "eng_explain": "'Somebody has to undergo the same treatment he usually gives others.'", 
+        "hun_orig": "A hóhért akasztják."
+    }, 
+    {
+        "eng": "A raven does not pick out raven's eye.", 
+        "hun_orig": "Holló a hollónak nem vájja ki a szemét."
+    }, 
+    {
+        "eng": "Who knows what tomorrow will bring.", 
+        "hun_orig": "Ki tudja, mit hoz a holnap."
+    }, 
+    {
+        "eng": "Speak praises or nothing of the dead.", 
+        "hun_orig": "A holtakról vagy jót vagy semmit."
+    }, 
+    {
+        "eng": "Hopp (i. e. wasting) at one time, kopp (hunger, want) at another.", 
+        "hun_orig": "Egyszer hopp, másszor kopp."
+    }, 
+    {
+        "eng": "An empty barrel sounds better.", 
+        "hun_orig": "Üres hordó jobban kong."
+    }, 
+    {
+        "eng": "Cheap meat yields dilute soup.", 
+        "eng_explain": "(Good cheap is dear.)", 
+        "hun_orig": "Olcsó húsnak híg a leve."
+    }, 
+    {
+        "eng": "Time passes, it waits for nobody.", 
+        "hun_orig": "Az idő eljár, senkire nem vár."
+    }, 
+    {
+        "eng": "Time is money.", 
+        "hun_orig": "Az idő pénz."
+    }, 
+    {
+        "eng": "He who gains time, gains life.", 
+        "hun_orig": "Aki időt nyer, életet nyer."
+    }, 
+    {
+        "eng": "Everything has its time.", 
+        "hun_orig": "Mindennek megvan a maga ideje."
+    }, 
+    {
+        "eng": "Tell the truth and your head will be broken.", 
+        "hun_orig": "Mondj/szólj igazat, betörik a fejed."
+    }, 
+    {
+        "eng": "In wine there is truth.", 
+        "hun_orig": "Borban az igazság."
+    }, 
+    {
+        "eng": "Truth cannot be hid under a bushel.", 
+        "hun_orig": "Az igazságot nem lehet véka alá rejteni."
+    }, 
+    {
+        "eng": "He who promises much, gives (but) little.", 
+        "hun_orig": "Aki sokat ígér, keveset ad."
+    }, 
+    {
+        "eng": "A promise is a nice word, if kept, then it is all right.", 
+        "hun_orig": "Az ígéret szép szó, ha megtartják úgy jó."
+    }, 
+    {
+        "eng": "The garret is full of promises.", 
+        "eng_explain": "'I am fed up with promises.'", 
+        "hun_explain": "\"Elegem van az ígéretekből.\"", 
+        "hun_orig": "Ígéretekkel tele a padlás."
+    }, 
+    {
+        "eng": "Make no headache (for yourself) of what is not your business.", 
+        "hun_orig": "Ami téged nem illet, ne törd azon a fejedet."
+    }, 
+    {
+        "eng": "The soul is retained in it only by the prayer.", 
+        "eng_explain": "'It is close to its end/destruction.'", 
+        "hun_orig": "Csak az imádság tartja benne a lelket."
+    }, 
+    {
+        "eng": "If it is not one's shirt, one should not put it on.", 
+        "eng_explain": "'If a critical remark does not concern somebody, then it should be disregarded.'", 
+        "hun_orig": "Akinek nem inge, ne vegye magára."
+    }, 
+    {
+        "eng": "Do not trust even your own shirt.", 
+        "hun_orig": "Ingednek se higgy."
+    }, 
+    {
+        "eng": "Having no ointment and box why do you pose as hairdresser?", 
+        "eng_explain": "\"Do not undertake something you are not equipped for.\"", 
+        "hun_explain": "\"Nem vállalkozhatunk valamire, ha a hozzá szükségesekkel nem rendelkezünk.\"", 
+        "hun_orig": "Ha nincs íred és szelencéd, miért teszed magad borbéllyá?"
+    }, 
+    {
+        "eng": "You'd better have one hundred who envy you than one who is sorry for you.", 
+        "hun_orig": "Jobb száz irigy, mint egy szánó."
+    }, 
+    {
+        "eng": "To whom God gives an office, adds also (or does not add) senses to it.", 
+        "hun_orig": "Akinek az Isten hivatalt ad, észt is ad (vagy észt nem ad) hozzá."
+    }, 
+    {
+        "eng": "What was given by God to one, cannot be taken away by man.", 
+        "hun_orig": "Akinek Isten valamit ad, ember el nem veheti."
+    }, 
+    {
+        "eng": "Even God/Christ our Lord has given way to a drunken man.", 
+        "hun_orig": "Az Isten/Krisztus urunk is kitért a részeg ember elől."
+    }, 
+    {
+        "eng": "Even God cannot satisfy everyone.", 
+        "hun_orig": "Az Isten se tehet mindennek eleget."
+    }, 
+    {
+        "eng": "God neither hurries, nor is late.", 
+        "hun_orig": "Az Isten sem siet, sem késik."
+    }, 
+    {
+        "eng": "God has taken him to a high position.", 
+        "eng_explain": "'He got into well-being or a high position.'", 
+        "hun_orig": "Felvitte az Isten a dolgát."
+    }, 
+    {
+        "eng": "The mills of God grind slowly, but surely.", 
+        "hun_orig": "Isten malmai lassan őrölnek, de biztosan."
+    }, 
+    {
+        "eng": "God does not beat one with a stick.", 
+        "hun_orig": "Isten nem ver bottal."
+    }, 
+    {
+        "eng": "He has caught the leg of God.", 
+        "eng_explain": "'His actions have led him into a very favourable position.'", 
+        "hun_orig": "Megfogta az Isten lábát."
+    }, 
+    {
+        "eng": "He respects neither God, nor man.", 
+        "hun_orig": "Nem ismer se Istent, se embert."
+    }, 
+    {
+        "eng": "Help yourself and the God will also help you.", 
+        "hun_orig": "Segíts magadon, az Isten is megsegít."
+    }, 
+    {
+        "eng": "It is long as the songs of St. John's day. (Midsummer day's song.)", 
+        "hun_orig": "Olyan hosszú, mint a Szent Iván éneke."
+    }, 
+    {
+        "eng": "Tastes and slaps are different.", 
+        "eng_explain": "(Tastes differ.)", 
+        "hun_orig": "Ízlések és pofonok különbözők."
+    }, 
+    {
+        "eng": "He can live even on flat ice.", 
+        "eng_explain": "(He can get money in desert.)", 
+        "hun_orig": "A jég hátán is megél."
+    }, 
+    {
+        "eng": "He who is good, gets his deserved punishment.", 
+        "eng_explain": "'A good deed often does not get its due reward or is even followed by punishment by those who dislike it.'", 
+        "hun_orig": "A jó elnyeri méltó büntetését."
+    }, 
+    {
+        "eng": "All is well if the end is well.", 
+        "hun_orig": "Minden jó, ha a vége jó."
+    }, 
+    {
+        "eng": "It is good everywhere, but it is the best at home.", 
+        "hun_orig": "Mindenütt jó, de legjobb otthon."
+    }, 
+    {
+        "eng": "In every good thing there is something bad.", 
+        "hun_orig": "Minden jóban van valami rossz."
+    }, 
+    {
+        "eng": "Even of a good thing too much is harmful.", 
+        "hun_orig": "Jóból is megárt a sok."
+    }, 
+    {
+        "eng": "Anything done willingly is not hard/difficult to do.", 
+        "hun_orig": "Amit jókedvvel teszel, nem esik nehezedre."
+    }, 
+    {
+        "eng": "Everything is good as it is.", 
+        "hun_orig": "Minden úgy van jól, ahogy van."
+    }, 
+    {
+        "eng": "You should not only know what is right but also do it.", 
+        "hun_orig": "Ne csak tudd a jót, hanem tedd is."
+    }, 
+    {
+        "eng": "Do not expect good in return for a good deed.", 
+        "hun_orig": "Jótett helyébe jót ne várj."
+    }, 
+    {
+        "eng": "Expect good in return for a good deed.", 
+        "hun_orig": "Jótett helyébe jót várj."
+    }, 
+    {
+        "eng": "If you come, you will be (here), if you bring (food), you will eat.", 
+        "hun_orig": "Ha jöttök, lesztek, ha hoztok, esztek."
+    }, 
+    {
+        "eng": "Let it come, whatever must come.", 
+        "eng_explain": "'I can/will not do anything to influence the course of events.'", 
+        "hun_orig": "Jöjjön, aminek jönni kell."
+    }, 
+    {
+        "eng": "What Jove may do, the ox may not.", 
+        "hun_orig": "Amit szabad Jupiternek, nem szabad azt az ökörnek."
+    }, 
+    {
+        "eng": "He has (or is involved in) a coat-affair.", 
+        "eng_explain": "'A man whose coat was stolen was told 'to be involved in a coat-stealing affair'.'", 
+        "hun_orig": "Kabátügye van - Kabátügybe keveredett."
+    }, 
+    {
+        "eng": "A cadre will not be lost, only transformed.", 
+        "eng_explain": "'A cadre who failed in a position, will not be sacked, only transferred to another similar post.'", 
+        "eng_explain2": "(A standard practice in the past.)", 
+        "hun_orig": "A káder nem vész el, csak átalakul."
+    }, 
+    {
+        "eng": "He seeks a knot even on the (bal)rush.", 
+        "hun_orig": "A kákán is csomót keres."
+    }, 
+    {
+        "eng": "Every cock is master upon his own dunghill.", 
+        "hun_orig": "Minden kakas úr a maga szemétdombján."
+    }, 
+    {
+        "eng": "One cannot put everything under one that.", 
+        "eng_explain": "'One cannot consider things/ideas identical/equal which are in fact different.'", 
+        "hun_orig": "Nem lehet mindent egy kalap alá venni."
+    }, 
+    {
+        "eng": "Everyone greets others with a hat he has got.", 
+        "hun_orig": "Kinek milyen kalapja van, olyannal köszön."
+    }, 
+    {
+        "eng": "An empty ear (of corn) holds its \"head\" upright.", 
+        "hun_orig": "Üres kalász fenn tartja a fejét."
+    }, 
+    {
+        "eng": "An empty pantry has a fool housewife.", 
+        "hun_orig": "Üres kamrának bolond a gazdasszonya."
+    }, 
+    {
+        "eng": "He would drown him in a spoonful of water.", 
+        "hun_orig": "Megfojtaná egy kanál vízben."
+    }, 
+    {
+        "eng": "He is a spoon in all liquids.", 
+        "eng_explain": "(He has a finger in every pie.)", 
+        "hun_orig": "Minden lében kanál."
+    }, 
+    {
+        "eng": "He draws everything to one (to the same) last.", 
+        "hun_orig": "Egy kaptafára húz mindent."
+    }, 
+    {
+        "eng": "There is no loss, which is not a gain for somebody.", 
+        "hun_orig": "Nincs az a kár, mely valakinek ne használna."
+    }, 
+    {
+        "eng": "Black Christmas white Easter.", 
+        "hun_orig": "Fekete karácsony, fehér húsvét."
+    }, 
+    {
+        "eng": "If your sword is short, add one step to it.", 
+        "eng_explain": "'A missing part may be substituted sometimes by something else, e.g. skill.'", 
+        "hun_orig": "Ha rövid a kardod, toldd meg egy lépéssel."
+    }, 
+    {
+        "eng": "Two sharp swords/daggers cannot be is one sheath.", 
+        "hun_orig": "Két éles kard/tőr nem fér meg egy hüvelyben."
+    }, 
+    {
+        "eng": "It goes like cuts of a whip.", 
+        "eng_explain": "(It goes like clockwork.)", 
+        "hun_orig": "Megy, mint a karikacsapás."
+    }, 
+    {
+        "eng": "He plays with open cards.", 
+        "hun_orig": "Nyílt/nyitott kártyákkal játszik."
+    }, 
+    {
+        "eng": "He whose mouth was once burned by hot mush, blows even at sour milk.", 
+        "hun_orig": "Kinek egyszer megégette száját a kása, az aludttejet is megfújja."
+    }, 
+    {
+        "eng": "Mush/Soup is not eaten as hot as it is cooked.", 
+        "eng_explain": "(The devil is not so black as he is painted.)", 
+        "hun_orig": "Nem eszik a kását/levest olyan forrón, ahogy főzik."
+    }, 
+    {
+        "eng": "It's easy to take Kati to the dance (if she is also willing).", 
+        "hun_orig": "Könnyű Katit táncba vinni (ha ő is akarja)."
+    }, 
+    {
+        "eng": "He looks for a needle in a bundle (of hay).", 
+        "hun_orig": "Kazalban tűt keres."
+    }, 
+    {
+        "eng": "Both the goat has enough to eat and the cabbage remains.", 
+        "hun_orig": "A kecske is jóllakik és a káposzta is megmarad."
+    }, 
+    {
+        "eng": "Without driving even a goat would not go to the market.", 
+        "hun_orig": "A kecske se menne a vásárra, ha nem hajtanák."
+    }, 
+    {
+        "eng": "Even on old goat likes to lick salt.", 
+        "eng_explain": "'Even old men like making love.'", 
+        "hun_orig": "A vén kecske is megnyalja a sót."
+    }, 
+    {
+        "eng": "He likes it as a goat likes the knife (that kills him).", 
+        "hun_orig": "Úgy szereti, mint a kecske a kést."
+    }, 
+    {
+        "eng": "He confides the cabbage to the goat.", 
+        "hun_orig": "Kecskére bízza a káposztát."
+    }, 
+    {
+        "eng": "He drinks like a brushmaker.", 
+        "eng_explain": "(He drinks like a fish.)", 
+        "hun_orig": "Iszik, mint a kefekötő."
+    }, 
+    {
+        "eng": "He combines the pleasant with the useful.", 
+        "hun_orig": "Összeköti a kellemest a hasznossal."
+    }, 
+    {
+        "eng": "We shall write it in soot in the chimney.", 
+        "eng_explain": "'We may write it off.'", 
+        "hun_orig": "Felírjuk a kéménybe korommal."
+    }, 
+    {
+        "eng": "The developments have led to the breaking of bread (i. e. the breaking of former relations).", 
+        "hun_orig": "Kenyértörésre került a dolog."
+    }, 
+    {
+        "eng": "Like question, like answer.", 
+        "hun_orig": "Amilyen a kérdés, olyan a felelet."
+    }, 
+    {
+        "eng": "It is better to ask twice than to err once.", 
+        "hun_orig": "Jobb kétszer kérdezni, mint egyszer hibázni."
+    }, 
+    {
+        "eng": "The wheel turns better if greased.", 
+        "hun_orig": "A kerék is jobban forog, ha kenik."
+    }, 
+    {
+        "eng": "He that seeks, finds.", 
+        "hun_orig": "Aki keres, talál."
+    }, 
+    {
+        "eng": "He removes the baptismal water from somebody.", 
+        "eng_explain": "(He curses somebody up and down.)", 
+        "hun_orig": "Leszedi róla keresztvizet."
+    }, 
+    {
+        "eng": "What is delayed may come/happen later.", 
+        "hun_orig": "Ami késik, nem múlik."
+    }, 
+    {
+        "eng": "It was baked/fried too late.", 
+        "eng_explain": "'It was done too late.'", 
+        "hun_explain": "(Eső után köpönyeg.)", 
+        "hun_orig": "Késő sütve."
+    }, 
+    {
+        "eng": "Better late than never.", 
+        "hun_orig": "Jobb későn, mint soha."
+    }, 
+    {
+        "eng": "I shall teach you to pipe into gloves.", 
+        "eng_explain": "'I shall tech you how to behave.'", 
+        "hun_orig": "Megtanítlak kesztyűbe dudálni."
+    }, 
+    {
+        "eng": "One hand washes the other.", 
+        "hun_orig": "Kéz kezet mos."
+    }, 
+    {
+        "eng": "The right hand does not know what the left is doing.", 
+        "eng_explain": "'An uncoordinated or careless action.'", 
+        "hun_orig": "Nem tudja a jobb kéz, mit csinál a bal."
+    }, 
+    {
+        "eng": "Many hands are quickly ready (with the work).", 
+        "hun_orig": "Sok kéz hamar kész."
+    }, 
+    {
+        "eng": "He washes his hand.", 
+        "hun_orig": "Mossa a kezét."
+    }, 
+    {
+        "eng": "A good beginning is half success.", 
+        "hun_orig": "Jó kezdet fél siker."
+    }, 
+    {
+        "eng": "Every beginning is hard.", 
+        "hun_orig": "Minden kezdet nehéz."
+    }, 
+    {
+        "eng": "For an onlooker/bystander nothing is precious.", 
+        "hun_orig": "A kibicnek semmi sem drága."
+    }, 
+    {
+        "eng": "Many a little becomes much.", 
+        "hun_orig": "Sok kicsi sokra megy."
+    }, 
+    {
+        "eng": "We do not care for the little and the great is of no importance (for us).", 
+        "hun_orig": "Kicsire nem adunk/nézünk, a nagy meg nem számít."
+    }, 
+    {
+        "eng": "A good excuse is never bad.", 
+        "eng_explain": "'It is always good to have a good excuse, if it serves the purpose.'", 
+        "hun_orig": "Jó kifogás sose rossz."
+    }, 
+    {
+        "eng": "Whom a serpent has bitten, is afraid of a lizard.", 
+        "hun_orig": "Kit a kígyó megcsíp, a gyíktól is fél."
+    }, 
+    {
+        "eng": "He shouts snake and frog at somebody.", 
+        "eng_explain": "'To abuse somebody right and left.'", 
+        "hun_orig": "Kígyót-békát kiált rá."
+    }, 
+    {
+        "eng": "A king(dom) of Whitsuntide.", 
+        "eng_explain": "'A glory/honour of short duration.'", 
+        "hun_orig": "Pünkösdi király(ság)."
+    }, 
+    {
+        "eng": "The little devil is hiding in me.", 
+        "eng_explain": "'In spite of what was shown/told me, I have some serious doubts.'", 
+        "hun_orig": "Bujkál bennem a kisördög."
+    }, 
+    {
+        "eng": "What you do not wish for yourself, do not do it to your fellow-men either.", 
+        "hun_orig": "Amit nem kívánsz magadnak, te se tedd embertársadnak."
+    }, 
+    {
+        "eng": "The exception confirms the rule.", 
+        "hun_orig": "A kivétel erősíti a szabályt."
+    }, 
+    {
+        "eng": "Long sausage and short sermon are good.", 
+        "hun_orig": "Jó a hosszú kolbász és a rövid prédikáció."
+    }, 
+    {
+        "eng": "A shy beggar has an empty scrip.", 
+        "hun_orig": "Szemérmes koldusnak üres a táskája."
+    }, 
+    {
+        "eng": "It is an egg of Columbus.", 
+        "eng_explain": "'It is a problem very easy to solve.'", 
+        "hun_orig": "Kolumbusz tojása."
+    }, 
+    {
+        "eng": "You (try to) trade at a deserted place.", 
+        "hun_explain": "(Borsót hánysz a falra.)", 
+        "hun_orig": "Kopár helyen kereskedel."
+    }, 
+    {
+        "eng": "He shaves a bald head.", 
+        "eng_explain": "'A useless action.'", 
+        "hun_explain": "Borsót hány a falra.", 
+        "hun_orig": "Kopaszt borotvál."
+    }, 
+    {
+        "eng": "He who mixes with the bran, will be eaten by the pigs.", 
+        "hun_orig": "Aki korpa közé keveredik, megeszik a disznók."
+    }, 
+    {
+        "eng": "The pitcher goes so long to the well, until it breaks.", 
+        "hun_orig": "Addig jár a korsó a kútra, míg el nem törik."
+    }, 
+    {
+        "eng": "One blacksmith envies another.", 
+        "hun_orig": "Kovács kovácsra irigykedik."
+    }, 
+    {
+        "eng": "A great stone fell down from his heart.", 
+        "eng_explain": "'A sense of relief as a danger or worry was averted.'", 
+        "hun_orig": "Nagy kő esett le a szívéről."
+    }, 
+    {
+        "eng": "A stone moved often gathers no moss.", 
+        "hun_orig": "Nem mohosodik az a kő meg, melyet gyakran mozgatnak."
+    }, 
+    {
+        "eng": "If a stone was thrown at you, throw back some bread in return.", 
+        "hun_orig": "Ha megdobnak kővel, dobd vissza kenyérrel."
+    }, 
+    {
+        "eng": "They blow one stone.", 
+        "eng_explain": "'They have the same bad intentions.'", 
+        "hun_orig": "Egy követ fújnak."
+    }, 
+    {
+        "eng": "He moves all the stones (to achieve something).", 
+        "hun_orig": "Minden követ megmozgat."
+    }, 
+    {
+        "eng": "Bread borrowed should be returned.", 
+        "eng_explain": "(Tit for tat.)", 
+        "hun_orig": "Kölcsön kenyér visszajár."
+    }, 
+    {
+        "eng": "There is some trouble in Köpec.", 
+        "eng_explain": "'There is something wrong there.'", 
+        "hun_orig": "Baj van Köpecen."
+    }, 
+    {
+        "eng": "He turns his coat (according to the wind).", 
+        "hun_orig": "Köpönyeget fordít."
+    }, 
+    {
+        "eng": "Work is burning down to his nail.", 
+        "eng_explain": "'He is hard pressed for time.'", 
+        "hun_orig": "Körmére ég a munka/dolog."
+    }, 
+    {
+        "eng": "If all cords break.", 
+        "eng_explain": "'If the worst comes to the worst.'", 
+        "hun_orig": "Ha minden kötél szakad."
+    }, 
+    {
+        "eng": "He who is a friend of Christ, will soon find salvation.", 
+        "hun_orig": "Kinek Krisztus a barátja, könnyen üdvözül."
+    }, 
+    {
+        "eng": "Even Christ's coffin was not guarded for nothing.", 
+        "hun_orig": "Krisztus koporsóját sem őrizték ingyen."
+    }, 
+    {
+        "eng": "You may go to Kukutyin to sharpen oats.", 
+        "eng_explain": "'You are not needed any more, you may/should leave.'", 
+        "hun_orig": "Elmehetsz Kukutyinba zabot hegyezni."
+    }, 
+    {
+        "eng": "Scrape you \"short man\", and you will also have.", 
+        "eng_explain": "'Making more efforts you will finally gain something.' (Usually a scornful remark.)", 
+        "hun_orig": "Kaparj kurta, neked is lesz."
+    }, 
+    {
+        "eng": "The dog barks but the caravan goes on.", 
+        "hun_orig": "A kutya ugat, a karaván halad."
+    }, 
+    {
+        "eng": "A dog that barks does not bite.", 
+        "hun_orig": "Amelyik kutya ugat, az nem harap."
+    }, 
+    {
+        "eng": "One of them is a dog, the other a \"barker\".", 
+        "eng_explain": "'They are equally bad.'", 
+        "hun_orig": "Egyik kutya, másik eb."
+    }, 
+    {
+        "eng": "The dog is buried here.", 
+        "eng_explain": "(Here lies the rub.)", 
+        "hun_orig": "Itt van a kutya elásva/eltemetve."
+    }, 
+    {
+        "eng": "A living dog is better than a dead lion.", 
+        "hun_orig": "Jobb az élő kutya a holt oroszlánnál."
+    }, 
+    {
+        "eng": "Dog and cat friendship.", 
+        "hun_orig": "Kutya-macska barátság."
+    }, 
+    {
+        "eng": "A scalded dog fears even the rain.", 
+        "hun_orig": "Leforrázott kutya az esőtől is fél."
+    }, 
+    {
+        "eng": "There is not only one pied dog in the world.", 
+        "hun_orig": "Nemcsak egy tarka kutya van a világon."
+    }, 
+    {
+        "eng": "A red (haired) dog, a red (haired) horse, a red (haired) man - none of them are good.", 
+        "hun_orig": "Vörös kutya, vörös ló, vörös ember egy se jó."
+    }, 
+    {
+        "eng": "Out of a dog there will be no lard.", 
+        "eng_explain": "(A leopard cannot change his spots.)", 
+        "hun_orig": "Kutyából nem lesz szalonna."
+    }, 
+    {
+        "eng": "He is the kid of our dog.", 
+        "eng_explain": "'A child of somebody related to the speaker, who was granted - or will be granted - preferential treatment at the expense of outsiders.'", 
+        "hun_orig": "A mi kutyánk kölyke."
+    }, 
+    {
+        "eng": "If a dog is to be killed, it is said to be mad.", 
+        "hun_orig": "Amely kutyát meg akarnak ölni, veszett nevét költik."
+    }, 
+    {
+        "eng": "The bite of a dog is healed by the hair of it.", 
+        "hun_orig": "Kutyaharapást a szőrivel gyógyítják."
+    }, 
+    {
+        "eng": "Barking of dogs cannot be heard in heaven.", 
+        "eng_explain": "'Who cares about what he says.'", 
+        "hun_orig": "Kutyaugatás nem hallatszik a mennybe."
+    }, 
+    {
+        "eng": "He got out of the bed with the left leg.", 
+        "eng_explain": "(To get out of the bed on the wrong side.)", 
+        "hun_orig": "Bal lábbal kelt fel."
+    }, 
+    {
+        "eng": "It's hard to dance in chains.", 
+        "hun_orig": "Nehéz láncban táncot járni."
+    }, 
+    {
+        "eng": "I tell my daughter, my daughter-in-law should understand it.", 
+        "hun_orig": "Lányomnak mondom, menyem értsen belőle."
+    }, 
+    {
+        "eng": "He adds one more shovelful of it. (It was bad but his action made it even worse.)", 
+        "hun_orig": "Rátesz még egy lapáttal."
+    }, 
+    {
+        "eng": "Go slowly, you get farther.", 
+        "hun_orig": "Lassan járj, tovább érsz."
+    }, 
+    {
+        "eng": "Appearance cheats.", 
+        "hun_orig": "A látszat csal."
+    }, 
+    {
+        "eng": "A lad on the dam.", 
+        "eng_explain": "'He is not frightened/deterred by difficulties.'", 
+        "hun_orig": "Legény a gáton."
+    }, 
+    {
+        "eng": "The smart lad is not him who beats, but he who endures it.", 
+        "hun_orig": "Nem az a legény, aki üti, hanem aki állja."
+    }, 
+    {
+        "eng": "He builds castles in the air.", 
+        "hun_orig": "Légvárakat épít."
+    }, 
+    {
+        "eng": "He kills two flies with one flap.", 
+        "hun_orig": "Két legyet üt egy csapásra."
+    }, 
+    {
+        "eng": "One can do anything, only will is needed.", 
+        "hun_orig": "Mindent lehet, csak akarni kell."
+    }, 
+    {
+        "eng": "There is no impossibility, only unwillingness/incapacity.", 
+        "hun_orig": "Nincs lehetetlenség, csak tehetetlenség."
+    }, 
+    {
+        "eng": "His soul comes to him only to sleep there.", 
+        "eng_explain": "'He is in very bad health.'", 
+        "hun_orig": "Csak hálni jár bele a lélek."
+    }, 
+    {
+        "eng": "It will be what will be.", 
+        "eng_explain": "(Be as be may.)", 
+        "hun_orig": "Lesz, ami lesz."
+    }, 
+    {
+        "eng": "The black soup is still ahead.", 
+        "eng_explain": "'The worst is still to come.'", 
+        "hun_orig": "Hátra van még a feketeleves."
+    }, 
+    {
+        "eng": "The soup costs more than the meat.", 
+        "eng_explain": "'The production of something costs more than the value of the product.'", 
+        "hun_orig": "Többe kerül a leves, mint a hús."
+    }, 
+    {
+        "eng": "He fell to the other side of the horse.", 
+        "eng_explain": "'From one extreme he switched to the opposite extreme.'", 
+        "hun_orig": "Átesett a ló túlsó oldalára."
+    }, 
+    {
+        "eng": "This is a 'veterinary horse'.", 
+        "eng_explain": "'It is like the horse in the collection of a veterinary college, demonstrating all conceivable illnesses.'", 
+        "hun_orig": "Ez egy állatorvosi ló."
+    }, 
+    {
+        "eng": "If there is no horse, a donkey will do as well.", 
+        "hun_orig": "Ha ló nincs, a szamár is jó."
+    }, 
+    {
+        "eng": "The horse should worry, he has a big head.", 
+        "eng_explain": "'Don't worry!'", 
+        "hun_orig": "Nagy a feje, búsuljon a ló."
+    }, 
+    {
+        "eng": "The horse has four legs, still he stumbles.", 
+        "hun_orig": "A lónak négy lába van, mégis megbotlik."
+    }, 
+    {
+        "eng": "The common horse has scars on his back.", 
+        "hun_orig": "Közös lónak túros a háta."
+    }, 
+    {
+        "eng": "The mouth of a treading horse is not muzzled.", 
+        "hun_orig": "Nyomtató lónak nem kötik be a száját."
+    }, 
+    {
+        "eng": "He puts on the right/wrong horse.", 
+        "eng_explain": "'His decision/affiliation is right/wrong.'", 
+        "hun_orig": "Jó/Rossz lóra tesz."
+    }, 
+    {
+        "eng": "He threw the reins between the horses.", 
+        "eng_explain": "'He refused to carry on in a leading position.'", 
+        "hun_orig": "A lovak közé dobta a gyeplőt."
+    }, 
+    {
+        "eng": "He who digs a pit for the horse of another man, will find his own horse's neck broken there.", 
+        "hun_orig": "Ki a más ember lovának vermet ás, az önnön lovának nyaka szakad bele."
+    }, 
+    {
+        "eng": "The horse that draws better is beaten (to draw even more).", 
+        "hun_orig": "Azt a lovat ütik, amelyik jobban húz."
+    }, 
+    {
+        "eng": "He tries to find his horse and is riding it.", 
+        "hun_orig": "A lovát keresi s rajta ül."
+    }, 
+    {
+        "eng": "The horse's leg protrudes.", 
+        "eng_explain": "(The concealed real intention comes to the open.)", 
+        "hun_orig": "Kilóg a lóláb."
+    }, 
+    {
+        "eng": "It is made as (or as slowly as) the stool of St. Lucy's day.", 
+        "hun_orig": "Úgy, lassan készül, mint a Luca széke."
+    }, 
+    {
+        "eng": "If it is a goose, it should be a fat one.", 
+        "eng_explain": "'Somebody having an unexpected opportunity, makes the best possible use of it.'", 
+        "hun_orig": "Ha már lúd, legyen kövér!"
+    }, 
+    {
+        "eng": "Many geese overpower a pig.", 
+        "hun_orig": "Sok lúd disznót győz."
+    }, 
+    {
+        "eng": "Stop up the hole until it's small.", 
+        "hun_orig": "Addig dugd be a lyukat, míg kicsi."
+    }, 
+    {
+        "eng": "He fills one hole with another.", 
+        "eng_explain": "He pays one debt from another loan.", 
+        "hun_orig": "Az egyik lyukat a másikkal tömi/dugja be."
+    }, 
+    {
+        "eng": "He talks a hole into the belly of somebody.", 
+        "eng_explain": "(He talks one's head off.)", 
+        "hun_orig": "Lyukat beszél a hasába valakinek."
+    }, 
+    {
+        "eng": "Do not put off till tomorrow what you can do today.", 
+        "hun_orig": "Amit ma megtehetsz, ne halaszd holnapra."
+    }, 
+    {
+        "eng": "Today to me, tomorrow to you.", 
+        "hun_orig": "Ma nekem, holnap neked."
+    }, 
+    {
+        "eng": "The cat also likes fish but keeps away from water.", 
+        "hun_orig": "A macska is szereti a halat, de kerüli a vizet."
+    }, 
+    {
+        "eng": "A sly cat makes a big jump.", 
+        "hun_orig": "Alamuszi macska nagyot ugrik."
+    }, 
+    {
+        "eng": "If the cat's away, the mice will dance/squeak.", 
+        "hun_orig": "Ha nincs otthon a macska, táncolnak/cincognak az egerek."
+    }, 
+    {
+        "eng": "He goes around it like a cat goes around hot mush.", 
+        "hun_orig": "Kerülgeti , mint macska a forró kását."
+    }, 
+    {
+        "eng": "He plays with somebody as a cat plays with a mouse.", 
+        "hun_orig": "Úgy játszik vele, mint macska az egérrel."
+    }, 
+    {
+        "eng": "It is an ugly bird that defiles its own nest.", 
+        "hun_orig": "Csúnya madár, amelyik a saját fészkébe piszkít."
+    }, 
+    {
+        "eng": "A bird is recognised by her feathers, a man by his friend.", 
+        "hun_orig": "Madarat tolláról, embert barátjáról."
+    }, 
+    {
+        "eng": "If you want something, go yourself, if not, send somebody else.", 
+        "hun_orig": "Ha kell, menj magad, ha nem kell, küldj mást."
+    }, 
+    {
+        "eng": "Do it yourself sir, if you have not servant.", 
+        "hun_orig": "Magad uram, ha szolgád nincs."
+    }, 
+    {
+        "eng": "In judging others, the point of departure is always himself.", 
+        "hun_orig": "Mindenki magából indul ki."
+    }, 
+    {
+        "eng": "He who climbs high, has a great fall.", 
+        "hun_orig": "Aki magasra hág, nagyot esik."
+    }, 
+    {
+        "eng": "They are as far apart as Makó (in Hungary) is from Jerusalem.", 
+        "hun_orig": "Olyan messze van tőle, mint Makó Jeruzsálemtől."
+    }, 
+    {
+        "eng": "Where pig is proffered, go round with a sack.", 
+        "hun_orig": "Hol malacot ígérnek, ott zsákkal forgolódjál."
+    }, 
+    {
+        "eng": "They grind in two mills.", 
+        "eng_explain": "'They speak of different things.'", 
+        "hun_orig": "Két malomban őrölnek."
+    }, 
+    {
+        "eng": "He drives the water to the mill of somebody.", 
+        "eng_explain": "'By his action - unintentionally - he plays into the hands of somebody.'", 
+        "hun_orig": "Valakinek a malmára hajtja a vizet."
+    }, 
+    {
+        "eng": "He is ground between two millstones.", 
+        "eng_explain": "'He tries to satisfy two incompatible requirements.'", 
+        "hun_orig": "Két malomkő közt őrlődik."
+    }, 
+    {
+        "eng": "He lives like Marci in Heves.", 
+        "eng_explain": "(He lives like a lord.)", 
+        "hun_orig": "Úgy él, mint Marci Hevesen."
+    }, 
+    {
+        "eng": "He who grasps much, retains but little.", 
+        "hun_orig": "(A)Ki sokat markol, keveset fog."
+    }, 
+    {
+        "eng": "Kings Matthias is dead, justice is lost.", 
+        "hun_orig": "Meghalt Mátyás király, oda az igazság."
+    }, 
+    {
+        "eng": "Do not drink (i.e. rejoice) in advance on the hide of a bear (still at large).", 
+        "hun_orig": "Ne igyál előre a medve bőrére."
+    }, 
+    {
+        "eng": "Either he gets accustomed or he escapes.", 
+        "hun_orig": "Vagy megszokik, vagy megszökik."
+    }, 
+    {
+        "eng": "What fails to succeed, should not be forced.", 
+        "hun_orig": "Ami nem megy, nem kell erőltetni."
+    }, 
+    {
+        "eng": "You haven't yet caught the bird, still you are already plucking her.", 
+        "eng_explain": "(Do not count your chicken before they are hatched.)", 
+        "hun_orig": "Meg sem fogtad s már melleszted/kopasztod."
+    }, 
+    {
+        "eng": "He was thrown into deep water.", 
+        "eng_explain": "'After a short training he was immediately given a difficult task.'", 
+        "hun_orig": "Bedobták a mélyvízbe."
+    }, 
+    {
+        "eng": "The bride is too beautiful.", 
+        "eng_explain": "(This news is too good to be true.)", 
+        "hun_orig": "Túl szép a menyasszony."
+    }, 
+    {
+        "eng": "He who ventures, wins.", 
+        "hun_orig": "Aki mer, az nyer."
+    }, 
+    {
+        "eng": "Measure twice, cut but once.", 
+        "hun_orig": "Kétszer mérj, egyszer vágj."
+    }, 
+    {
+        "eng": "He that is not a master of something, is a butcher of it.", 
+        "hun_orig": "Ki minek nem mestere, hóhéra az annak."
+    }, 
+    {
+        "eng": "Every man should practise only his trade.", 
+        "hun_orig": "Ki-ki maga mesterségét folytassa."
+    }, 
+    {
+        "eng": "A man coming from far away tells us what he wants.", 
+        "eng_explain": "(A traveller may lie with authority.)", 
+        "hun_orig": "Messziről jött ember azt mond, amit akar."
+    }, 
+    {
+        "eng": "He pulls the honeyed string before him (or before his nose).", 
+        "eng_explain": "(He holds out a carrot to somebody.)", 
+        "hun_orig": "Elhúzza előtte vagy az orra előtt a mézesmadzagot."
+    }, 
+    {
+        "eng": "More was lost at Mohács.", 
+        "eng_explain": "'Do not worry, this is not a serious loss/trouble.'", 
+        "hun_orig": "Több is veszett Mohácsnál."
+    }, 
+    {
+        "eng": "If the mountain will not go to Mahomet, Mahomet will go to mountain.", 
+        "hun_orig": "Ha a hegy nem megy Mohamedhez, Mohamed megy a hegyhez."
+    }, 
+    {
+        "eng": "I tell you one thing, two will result from it.", 
+        "eng_explain": "'I have a good idea.'", 
+        "hun_orig": "Egyet mondok, kettő lesz belőle."
+    }, 
+    {
+        "eng": "I'll say such things that I'll regret even myself.", 
+        "hun_orig": "Olyat mondok, hogy magam is megbánom."
+    }, 
+    {
+        "eng": "The Moor has done his duty, the Moor may go.", 
+        "hun_orig": "A mór megtette a kötelességét, a mór mehet."
+    }, 
+    {
+        "eng": "Like wash-basin, like towel.", 
+        "hun_orig": "Amilyen a mosdó, olyan a törölköző."
+    }, 
+    {
+        "eng": "He defends the honour of the uniform.", 
+        "eng_explain": "'He tries to justify/explain a mistaken/incorrect/unlawful action of somebody in his organisation/group.'", 
+        "hun_orig": "Védi a mundér becsületét."
+    }, 
+    {
+        "eng": "The works praises its master.", 
+        "hun_orig": "A munka dicséri mesterét."
+    }, 
+    {
+        "eng": "Work is burning under his hand.", 
+        "eng_explain": "(He works like fury.)", 
+        "hun_orig": "Ég a keze alatt a munka."
+    }, 
+    {
+        "eng": "He would attend the funeral of labour.", 
+        "eng_explain": "'He is utterly reluctant to work.'", 
+        "hun_orig": "Elmenne a munka temetésére."
+    }, 
+    {
+        "eng": "A hasty work is seldom good.", 
+        "hun_orig": "Hamar munka ritkán jó."
+    }, 
+    {
+        "eng": "For good work time is needed.", 
+        "hun_orig": "Jó munkához idő kell."
+    }, 
+    {
+        "eng": "After work rest is sweet.", 
+        "hun_orig": "Munka után édes a pihenés."
+    }, 
+    {
+        "eng": "He who is sitting in the reeds, makes a whistle of his choice.", 
+        "hun_orig": "Aki a nád között ül, olyan sípot csinál, amilyet akar."
+    }, 
+    {
+        "eng": "One has to tighten the belt.", 
+        "hun_orig": "Össze kell húzni a nadrágszíjat."
+    }, 
+    {
+        "eng": "Anything big is small at the beginning.", 
+        "hun_orig": "Minden nagynak kicsi a kezdete."
+    }, 
+    {
+        "eng": "Nothing is new under the sun.", 
+        "hun_orig": "Nincs új a nap alatt."
+    }, 
+    {
+        "eng": "There are more days than sausages.", 
+        "eng_explain": "'One has to save for the times ahead.'", 
+        "hun_orig": "Több nap, mint kolbász."
+    }, 
+    {
+        "eng": "Praise the day (only) at sunset.", 
+        "hun_orig": "Nyugtával dicsérd a napot."
+    }, 
+    {
+        "eng": "Even a quadruped stumbles.", 
+        "hun_orig": "A négylábú is botlik."
+    }, 
+    {
+        "eng": "He does not yield from the 48.", 
+        "hun_orig": "Nem enged a negyvennyolcból."
+    }, 
+    {
+        "eng": "Unwillingness ends in groaning.", 
+        "eng_explain": "'Unwillingness must lead to failure.'", 
+        "hun_orig": "Nemakarásnak nyögés a vége."
+    }, 
+    {
+        "eng": "Even something light is heavy for the unwilling.", 
+        "hun_orig": "A könnyű is nehéz a nemakarónak."
+    }, 
+    {
+        "eng": "The voice of the people is the voice of God.", 
+        "hun_orig": "A nép szava Isten szava."
+    }, 
+    {
+        "eng": "Coward people have no homeland.", 
+        "hun_orig": "Gyáva népnek nincs hazája."
+    }, 
+    {
+        "eng": "He laughs really/best who laughs last.", 
+        "hun_orig": "Az nevet igazán/legjobban, aki utoljára nevet."
+    }, 
+    {
+        "eng": "Do not look for something, where it isn't.", 
+        "hun_orig": "Ahol nincs, ott ne keress."
+    }, 
+    {
+        "eng": "What does not exist, cannot cause any trouble.", 
+        "eng_explain": "'It is better to do nothing.'", 
+        "hun_orig": "Ami nincs, abból nem lehet baj."
+    }, 
+    {
+        "eng": "He who does not collect in summer, will heat little in winter.", 
+        "hun_orig": "Aki nyáron nem gyűjt, télen keveset fűt."
+    }, 
+    {
+        "eng": "One cannot sit in two saddles having one arse/bottom only.", 
+        "hun_orig": "Egy fenékkel/seggel két nyerget nem lehet megülni."
+    }, 
+    {
+        "eng": "An arrow once shot is hard to get back.", 
+        "eng_explain": "(A word once spoken is past recalling.)", 
+        "hun_orig": "Az ellőtt nyilat nehéz visszahozni."
+    }, 
+    {
+        "eng": "He who hunts two hares, does not catch even one.", 
+        "hun_orig": "Ki két nyulat hajt, egyet se fog."
+    }, 
+    {
+        "eng": "He makes the hare spring out of the bush.", 
+        "eng_explain": "(To make somebody show his true colours.)", 
+        "hun_orig": "Kiugratja a nyulat a bokorból."
+    }, 
+    {
+        "eng": "He did not shoot the hare but the pot is already on the fire.", 
+        "hun_orig": "Még a nyulat meg sem lőtte, a fazekat már a tűzhöz tette."
+    }, 
+    {
+        "eng": "We have seen a hare, we shall have no luck.", 
+        "eng_explain": "'A superstition.'", 
+        "hun_orig": "Nyulat láttunk, nem lesz szerencsénk."
+    }, 
+    {
+        "eng": "Wise men learn by others' harm.", 
+        "hun_orig": "Más kárán tanul az okos."
+    }, 
+    {
+        "eng": "The wiser gives in.", 
+        "hun_orig": "Az okosabb enged."
+    }, 
+    {
+        "eng": "He pours oil on the fire.", 
+        "hun_orig": "Olajat önt a tűzre."
+    }, 
+    {
+        "eng": "They are as many as the Russians.", 
+        "eng_explain": "(There are too many of them.)", 
+        "hun_orig": "Annyian/Olyan sokan vannak, mint az oroszok."
+    }, 
+    {
+        "eng": "The whip cracks at the end.", 
+        "eng_explain": "'The punishment comes at the end.'", 
+        "eng_explain2": "or 'The end tries all.'", 
+        "hun_orig": "Végén csattan az ostor."
+    }, 
+    {
+        "eng": "A ox remains an ox even if driven to Vienna.", 
+        "eng_explain": "(Send a fool to the market (far, to France) and a fool he will return again.)", 
+        "hun_orig": "Az ökör csak ökör, ha Bécsbe hajtják is."
+    }, 
+    {
+        "eng": "It is easy to push a cart drawn by twelve oxen.", 
+        "hun_orig": "Könnyű tizenkét ökör után eltolni egy szekeret."
+    }, 
+    {
+        "eng": "An ox can be taken by his horn, a man by his word.", 
+        "hun_orig": "Ökröt a szarván, embert a szaván lehet megfogni."
+    }, 
+    {
+        "eng": "For a thirsty ox dirty water will do as well.", 
+        "hun_orig": "Szomjas ökörnek a zavaros víz is jó."
+    }, 
+    {
+        "eng": "Self-praise stinks.", 
+        "hun_orig": "Öndicséret büdös."
+    }, 
+    {
+        "eng": "The devil does not sleep.", 
+        "hun_orig": "Az ördög nem alszik."
+    }, 
+    {
+        "eng": "Let the devil take you!", 
+        "hun_orig": "Az ördög vigyen el!"
+    }, 
+    {
+        "eng": "He is afraid of it, as the devil fears holy water (or incense).", 
+        "hun_orig": "Fél tőle, mint ördög a szenteltvíztől/tömjéntől."
+    }, 
+    {
+        "eng": "The devil is not so black as he is painted.", 
+        "hun_orig": "Nem olyan fekete az ördög, mint amilyennek festik."
+    }, 
+    {
+        "eng": "The devil is beating his wife.", 
+        "eng_explain": "'If it rains when the sun is shining then it is told that'", 
+        "hun_orig": "Veri az ördög a feleségét."
+    }, 
+    {
+        "eng": "Living with a devil, you have to turn a devil.", 
+        "hun_orig": "Ha ördöggel lakol, ördöggé kell lenned."
+    }, 
+    {
+        "eng": "Give the devil your little finger, you will be taken entirely.", 
+        "hun_orig": "Add az ördögnek kisujjadat, egészen elkap."
+    }, 
+    {
+        "eng": "Sometimes one has to light a candle for the devil too.", 
+        "hun_orig": "Az ördögnek is kell olykor gyertyát gyújtani."
+    }, 
+    {
+        "eng": "He owed the devil a journey.", 
+        "eng_explain": "'He made a journey in vain.'", 
+        "hun_orig": "Tartozott az ördögnek egy úttal."
+    }, 
+    {
+        "eng": "He is good, only the devils are bad, for not carrying him away.", 
+        "hun_orig": "Jó, csak az ördögök rosszak, hogy el nem viszik."
+    }, 
+    {
+        "eng": "It is not good to paint the devil on the wall (as he will appear).", 
+        "hun_orig": "Nem jó az ördögöt a falra festeni."
+    }, 
+    {
+        "eng": "It is good to have an old man at home.", 
+        "hun_orig": "Jó az öreg a háznál."
+    }, 
+    {
+        "eng": "There is no joy without sorrow.", 
+        "hun_orig": "Nincsen öröm üröm nélkül."
+    }, 
+    {
+        "eng": "He was left behind like the Wallachians by St. Paul.", 
+        "eng_explain": "'He was left behind unexpectedly.'", 
+        "hun_orig": "Otthagyta, mint Szent Pál az oláhokat."
+    }, 
+    {
+        "eng": "A good priest learns until his death.", 
+        "hun_orig": "A jó pap holtig tanul."
+    }, 
+    {
+        "eng": "Not even the priest will speak/preach twice.", 
+        "hun_orig": "A pap se beszél/prédikál kétszer."
+    }, 
+    {
+        "eng": "One likes the priest, someone else his wife (I prefer his daughter).", 
+        "hun_orig": "Kinek a pap, kinek a papné (nekem a lánya)."
+    }, 
+    {
+        "eng": "Paper is patient.", 
+        "hun_orig": "A papír türelmes."
+    }, 
+    {
+        "eng": "It is not all/always mallow.", 
+        "eng_explain": "(Life is not all beer and skittles.)", 
+        "hun_orig": "Nem minden/mindig papsajt."
+    }, 
+    {
+        "eng": "If the shepherds fight each other, the wolf has a good time.", 
+        "hun_orig": "Verekedő pásztorok közt jó dolga van a farkasnak."
+    }, 
+    {
+        "eng": "Friday is longer than Saturday.", 
+        "eng_explain": "'The underskirt is longer than the skirt.'", 
+        "hun_orig": "Hosszabb a péntek, mint a szombat."
+    }, 
+    {
+        "eng": "Little money - little football.", 
+        "eng_explain": "'If little money is paid, then only little work can be expected.'", 
+        "hun_orig": "Kis pénz, kis foci."
+    }, 
+    {
+        "eng": "Money talks, although the dog may bark.", 
+        "hun_orig": "Pénz beszél, kutya ugat."
+    }, 
+    {
+        "eng": "Bad money is never lost.", 
+        "eng_explain": "(A bad penny always turns up.)", 
+        "hun_orig": "Rossz pénz nem vész el."
+    }, 
+    {
+        "eng": "Money has no smell.", 
+        "hun_orig": "A pénznek nincs szaga."
+    }, 
+    {
+        "eng": "He is well known as bad money.", 
+        "hun_orig": "Ismerik, mint a rossz pénzt."
+    }, 
+    {
+        "eng": "He got into this affair like Pilate into the Credo (i. e. by mere chance).", 
+        "hun_orig": "Úgy került bele, mint Pilátus a krédóba."
+    }, 
+    {
+        "eng": "Even the highway leading to Hell is paved with good intentions.", 
+        "hun_orig": "A pokol országútja is jó szándékkal van kikövezve."
+    }, 
+    {
+        "eng": "Hell has been broken loose.", 
+        "hun_orig": "Elszabadult a pokol."
+    }, 
+    {
+        "eng": "There is a feast once even in Hell.", 
+        "hun_orig": "Pokolban is esik egyszer egy ünnep."
+    }, 
+    {
+        "eng": "He puts the dot on the i.", 
+        "eng_explain": "'He makes the last move in the completion of something.'", 
+        "hun_orig": "Felteszi az i-re a pontot."
+    }, 
+    {
+        "eng": "Punctuality is the politeness of kings.", 
+        "hun_orig": "A pontosság a királyok udvariassága."
+    }, 
+    {
+        "eng": "Nobody is a prophet in his own country.", 
+        "hun_orig": "Senki sem próféta a saját, maga hazájában."
+    }, 
+    {
+        "eng": "An unwanted helper gets (dog's) droppings as payment.", 
+        "hun_orig": "Fogadatlan prókátornak (eb)szar a fizetése."
+    }, 
+    {
+        "eng": "The proof of the pudding is eating it.", 
+        "hun_orig": "A puding próbája az, hogy megeszik."
+    }, 
+    {
+        "eng": "This is but a hump on our backs.", 
+        "eng_explain": "'We would be pleased to get rid of this.'", 
+        "hun_orig": "Ez csak púp a hátunkon."
+    }, 
+    {
+        "eng": "Order is the soul of everything.", 
+        "hun_orig": "Rend a lelke mindennek."
+    }, 
+    {
+        "eng": "There must be order.", 
+        "hun_orig": "Rendnek muszáj lenni."
+    }, 
+    {
+        "eng": "A lazy man works twice.", 
+        "hun_orig": "A rest kétszer fárad."
+    }, 
+    {
+        "eng": "Radish is poison in the morning, food at noon and medicine in the evening.", 
+        "hun_orig": "A retek reggel méreg, délben étek, este orvosság."
+    }, 
+    {
+        "eng": "What he gains at the toll, loses at the customs.", 
+        "hun_orig": "Amit nyer a réven, elveszti a vámon."
+    }, 
+    {
+        "eng": "A sleeping fox catches no hare/chicken.", 
+        "hun_orig": "Alvó róka nem fog nyulat/csirkét."
+    }, 
+    {
+        "eng": "One cannot strip two hides from one fox.", 
+        "hun_orig": "Egy rókáról két bőrt nem lehet lehúzni."
+    }, 
+    {
+        "eng": "All roads lead to Rome.", 
+        "hun_orig": "Minden út Rómába vezet."
+    }, 
+    {
+        "eng": "It is easier to destroy than to build.", 
+        "hun_orig": "Könnyebb rontani, mint építeni."
+    }, 
+    {
+        "eng": "It is bad with the bad (i. e. the wife), but it is worse without the bad.", 
+        "hun_orig": "Rossz a rosszal, de rosszabb a rossz nélkül."
+    }, 
+    {
+        "eng": "The worse it is (in one respect), the better (in another respect).", 
+        "hun_orig": "Minél rosszabb, annál jobb."
+    }, 
+    {
+        "eng": "No rose without a thorn.", 
+        "hun_orig": "Nincsen rózsa tövis nélkül."
+    }, 
+    {
+        "eng": "Clothes do not make the man.", 
+        "hun_orig": "Nem a ruha teszi az embert."
+    }, 
+    {
+        "eng": "Clothes make the man.", 
+        "hun_orig": "Ruha teszi az embert."
+    }, 
+    {
+        "eng": "He stands the mud.", 
+        "eng_explain": "'He comes up to mark. - He stands the test.'", 
+        "hun_orig": "Megállja a sarat."
+    }, 
+    {
+        "eng": "He dismounts the tent-poles.", 
+        "eng_explain": "'He makes off.'", 
+        "hun_orig": "Felszedi a sátorfáját."
+    }, 
+    {
+        "eng": "Even if the wound is healed, the scar of it remains.", 
+        "hun_orig": "Ha begyógyul is a seb, megmarad a helye."
+    }, 
+    {
+        "eng": "It is easy to inflict a wound, but difficult to heal it.", 
+        "hun_orig": "Könnyű sebet ejteni, de nehéz gyógyítani."
+    }, 
+    {
+        "eng": "Even a little is more than nothing.", 
+        "hun_orig": "A semminél a kevés is többet ér."
+    }, 
+    {
+        "eng": "Here is nothing, hold it tight.", 
+        "eng_explain": "'Somebody was given much less than expected.'", 
+        "hun_orig": "Nesze semmi, fogd meg jól."
+    }, 
+    {
+        "eng": "Out of nothing there will be nothing.", 
+        "hun_orig": "Semmiből nem lesz semmi."
+    }, 
+    {
+        "eng": "A new broom sweeps well.", 
+        "hun_orig": "Új seprű jól seper."
+    }, 
+    {
+        "eng": "He that hurries will be late.", 
+        "hun_orig": "Aki siet, elkésik."
+    }, 
+    {
+        "eng": "Headman Simon drives the horse.", 
+        "eng_explain": "'The woman rules the house.'", 
+        "hun_orig": "Simon bíró hajtja a lovat."
+    }, 
+    {
+        "eng": "He has already one foot in the grave.", 
+        "hun_orig": "Fél lábbal a sírban van."
+    }, 
+    {
+        "eng": "He turns/spins in his grave.", 
+        "hun_orig": "Megfordul/Forog a sírjában."
+    }, 
+    {
+        "eng": "He became in idol of salt.", 
+        "eng_explain": "(A pillar of salt.)", 
+        "hun_orig": "Sóbálvánnyá változott."
+    }, 
+    {
+        "eng": "It has never been so, that it wouldn't have been anyhow.", 
+        "hun_orig": "Úgy még sohasem volt, hogy valahogy ne lett volna."
+    }, 
+    {
+        "eng": "He may go to the salt-office.", 
+        "eng_explain": "'His case will not be heard anywhere.'", 
+        "hun_orig": "Mehet a sóhivatalba."
+    }, 
+    {
+        "eng": "He who begins many things, finished but few.", 
+        "hun_orig": "Ki sokba kap, keveset végez."
+    }, 
+    {
+        "eng": "A falcon will not breed a dove.", 
+        "hun_orig": "A sólyommadárnak nem lesz galamb fia."
+    }, 
+    {
+        "eng": "He reads between the lines.", 
+        "hun_orig": "A sorok között olvas."
+    }, 
+    {
+        "eng": "He sticks out of the line.", 
+        "eng_explain": "(He steps out of the line.)", 
+        "hun_orig": "Kilóg a sorból."
+    }, 
+    {
+        "eng": "He has discovered the sealing wax.", 
+        "eng_explain": "'He made an invention done by others long ago.'", 
+        "hun_orig": "Feltalálta/Felfedezte a spanyolviaszt."
+    }, 
+    {
+        "eng": "He takes/hands over the baton.", 
+        "eng_explain": "'He takes/hands over a job from to his predecessor/successor.'", 
+        "hun_orig": "Átveszi/Átadja a stafétabotot."
+    }, 
+    {
+        "eng": "Sheepskin coat to sheepskin coat, (shepherd's) cloth coat to cloth coat.", 
+        "eng_explain": "'Marry your equal.'", 
+        "hun_orig": "Suba subához, guba gubához."
+    }, 
+    {
+        "eng": "He throws the beater too far.", 
+        "eng_explain": "(He throws the hatchet.)", 
+        "hun_orig": "Elveti a sulykot."
+    }, 
+    {
+        "eng": "Let the shoemaker remain at his last!", 
+        "hun_orig": "Suszter maradjon a kaptafánál!"
+    }, 
+    {
+        "eng": "There is a dialogue between deaf people.", 
+        "eng_explain": "'Each tells his own views without regard to that of the other.'", 
+        "hun_orig": "Süketek párbeszéde folyik."
+    }, 
+    {
+        "eng": "Liberty is dearer than gold.", 
+        "hun_orig": "A szabadság drágább az aranynál."
+    }, 
+    {
+        "eng": "There is no rule without exception.", 
+        "hun_orig": "Nincs szabály kivétel nélkül."
+    }, 
+    {
+        "eng": "His mouth is as big as the Vienna Gate (in Buda).", 
+        "hun_orig": "Akkora a szája, mint a Bécsi kapu."
+    }, 
+    {
+        "eng": "Don't speak my mouth, I shall have no headache.", 
+        "hun_orig": "Ne szólj szám, nem fáj fejem!"
+    }, 
+    {
+        "eng": "Many cooks put too much salt in the soup/food.", 
+        "hun_orig": "Sok szakács elsózza a levest (az ételt)."
+    }, 
+    {
+        "eng": "It is a splinter in the eye of somebody.", 
+        "eng_explain": "(A thorn in the flesh.)", 
+        "hun_orig": "Szálka valakinek a szemében."
+    }, 
+    {
+        "eng": "Give lodgement to a Slovak and you will be beaten out of your home.", 
+        "hun_orig": "Adj a tótnak szállást, kiver a házból."
+    }, 
+    {
+        "eng": "A drowning man catches even at a stalk of straw.", 
+        "hun_orig": "A fuldokló ember a szalmaszálhoz is kap."
+    }, 
+    {
+        "eng": "He does not put crosswise even one stalk of straw.", 
+        "eng_explain": "'He is utterly lazy/disinterested in this matter.'", 
+        "hun_orig": "Egy szalmaszálat sem tesz keresztbe."
+    }, 
+    {
+        "eng": "He stands there like a donkey on the hill.", 
+        "eng_explain": "'He is idle/undecided what to do.'", 
+        "hun_orig": "Áll, mint szamár a hegyen."
+    }, 
+    {
+        "eng": "He disappeared like a grey donkey in the fog.", 
+        "hun_orig": "Eltűnt, mint szürke szamár a ködben."
+    }, 
+    {
+        "eng": "Braying of an ass (or barking of a dog), is not heard in Heaven.", 
+        "hun_orig": "Szamárbőgés/Ebugatás nem hallatszik a mennybe/az égbe."
+    }, 
+    {
+        "eng": "One should not stir the shit (as it will be even more stinking).", 
+        "hun_orig": "Nem kell keverni a szart (mert még büdösebb lesz)."
+    }, 
+    {
+        "eng": "The magpie rattles, a guest will come.", 
+        "hun_orig": "Csörög a szarka, vendég jön."
+    }, 
+    {
+        "eng": "The magpie wants too much, but her tail is unable to carry it.", 
+        "eng_explain": "'He overestimates his power/capacity/strength.'", 
+        "hun_orig": "Sokat akar a szarka, de nem bírja a farka."
+    }, 
+    {
+        "eng": "He has hit the udder between the horns.", 
+        "eng_explain": "'He has made a bad mistake.'", 
+        "hun_orig": "Eltalálta szarva közt a tőgyét."
+    }, 
+    {
+        "eng": "Nail by/with nail.", 
+        "eng_explain": "(One nail drives out another.)", 
+        "hun_orig": "Szeget szeggel."
+    }, 
+    {
+        "eng": "A poor man is pulled even by the branch of a tree.", 
+        "hun_orig": "A szegény embert még az ág is húzza."
+    }, 
+    {
+        "eng": "A poor man cooks with water.", 
+        "hun_orig": "Szegény ember vízzel főz."
+    }, 
+    {
+        "eng": "Even the luck of a poor man is poor.", 
+        "hun_orig": "Szegénynek a szerencséje is szegény."
+    }, 
+    {
+        "eng": "Between two chairs he falls below the bench.", 
+        "hun_orig": "Két szék közt a pad alá esik."
+    }, 
+    {
+        "eng": "Sing the song of the man whose cart you sit on.", 
+        "hun_orig": "Akinek a szekerén ülsz, annak a nótáját fújjad."
+    }, 
+    {
+        "eng": "The pole of his cart is pointing outwards.", 
+        "eng_explain": "(He is about to get the sack.)", 
+        "hun_orig": "Kifelé áll a szekere rúdja."
+    }, 
+    {
+        "eng": "Do not run after a cart that will not take you.", 
+        "hun_orig": "Ne fuss olyan szekér után, amelyik nem vesz fel."
+    }, 
+    {
+        "eng": "There is no loaded cart which could not carry one more forkful (of hay).", 
+        "hun_orig": "Nincs oly rakott szekér, melyre még egy villával ne férne."
+    }, 
+    {
+        "eng": "He who sows wind, reaps whirlwind.", 
+        "hun_orig": "Aki szelet vet, vihart arat."
+    }, 
+    {
+        "eng": "He takes the wind out of someone's sails.", 
+        "hun_orig": "Kifogja a szelet a vitorlájából."
+    }, 
+    {
+        "eng": "One cannot fight the wind.", 
+        "hun_orig": "Széllel szembeszállni nem lehet."
+    }, 
+    {
+        "eng": "He turns like a weathercock.", 
+        "hun_orig": "Forog, mint a szélkakas."
+    }, 
+    {
+        "eng": "He released the spirit from the bottle.", 
+        "hun_orig": "Kiengedte/Kiszabadította a palackból a szellemet."
+    }, 
+    {
+        "eng": "He fights windmills.", 
+        "hun_orig": "Szélmalomharcot vív."
+    }, 
+    {
+        "eng": "Several eyes see more.", 
+        "hun_orig": "Több szem többet lát."
+    }, 
+    {
+        "eng": "What is noticed by his eyes, will not be left there by his hands.", 
+        "hun_orig": "Amit a szeme meglát, a keze nem hagyja ott."
+    }, 
+    {
+        "eng": "His eyes are beautiful, but his heart is a devil.", 
+        "hun_orig": "Szép a szeme, de ördög a szíve."
+    }, 
+    {
+        "eng": "He guards it/him like his eyesight.", 
+        "hun_orig": "Úgy vigyáz rá, mint a szeme fényére/világára."
+    }, 
+    {
+        "eng": "(He can see the splinter in another's eye but cannot see even the beam in his own.)", 
+        "hun_orig": "Más szemében a szálkát is meglátja, a magáéban a gerendát sem."
+    }, 
+    {
+        "eng": "One of my eyes sheds tears, the other one laughs.", 
+        "hun_orig": "Egyik szemem sír, a másik meg nevet."
+    }, 
+    {
+        "eng": "The world stands to those who have eyes.", 
+        "eng_explain": "'To the open eyes the world yields anything.'", 
+        "hun_orig": "Szemesnek áll a világ."
+    }, 
+    {
+        "eng": "An eye for an eye, a tooth for a tooth.", 
+        "hun_orig": "Szemet szemért, fogat fogért."
+    }, 
+    {
+        "eng": "He puts out the eye of somebody with something.", 
+        "eng_explain": "'He gives something of much less value than requested/needed/promised.'", 
+        "hun_orig": "Kiszúrja valakinek a szemét valamivel."
+    }, 
+    {
+        "eng": "More credit is given to the eyes than to the ears.", 
+        "hun_orig": "Többet hiszünk a szemnek, mint a fülnek."
+    }, 
+    {
+        "eng": "He is as impertinent as a fly at the market.", 
+        "hun_orig": "Szemtelen, mint a piaci légy."
+    }, 
+    {
+        "eng": "His hay is in order.", 
+        "eng_explain": "'Everything is all right about him.'", 
+        "hun_orig": "Rendben van a szénája."
+    }, 
+    {
+        "eng": "The hand of each saint inclines towards himself.", 
+        "hun_orig": "Minden szentnek maga felé hajlik a keze."
+    }, 
+    {
+        "eng": "He hangs out the dirty linen (to the public).", 
+        "hun_orig": "Kiteregeti a szennyest."
+    }, 
+    {
+        "eng": "Love is blind.", 
+        "hun_orig": "A szerelem vak."
+    }, 
+    {
+        "eng": "Everyone is the blacksmith of his own fortune.", 
+        "hun_orig": "Mindenki a maga szerencséjének kovácsa."
+    }, 
+    {
+        "eng": "Goo tool means half the work.", 
+        "hun_orig": "Jó szerszám, fele munka."
+    }, 
+    {
+        "eng": "A new sieve is on a nail (then it gets under the bed).", 
+        "hun_orig": "Új szita szegen függ (aztán az ágy alá kerül)."
+    }, 
+    {
+        "eng": "What is on his heart, that is on his mouth/tongue.", 
+        "hun_orig": "Ami a szívén, az a száján/nyelvén."
+    }, 
+    {
+        "eng": "Nice words appease even the enemy.", 
+        "hun_orig": "A szép szó az ellenséget is kibékíti."
+    }, 
+    {
+        "eng": "Only words that have been told can be understood.", 
+        "hun_orig": "(Mondott) Szóból ért az ember."
+    }, 
+    {
+        "eng": "Even one hundred words lead to one end.", 
+        "hun_orig": "Száz szónak is egy a vége."
+    }, 
+    {
+        "eng": "His words are nice but he is a devil (his liver is that of a devil).", 
+        "hun_orig": "Szép a szava, de ördög ő maga (az eha [mája])."
+    }, 
+    {
+        "eng": "The room and the stove are one item.", 
+        "eng_explain": "'Man and wife share the same responsibilities.'", 
+        "hun_explain": "\"A férj és a feleség egyaránt felelős közös dolgaikért.\"", 
+        "hun_orig": "Egy a szoba a kemencével."
+    }, 
+    {
+        "eng": "The neighbour's meadow is always greener.", 
+        "hun_orig": "A szomszéd rétje mindig zöldebb."
+    }, 
+    {
+        "eng": "A good neighbour is better than many bad kinsmen.", 
+        "hun_orig": "Jobb a jó szomszéd sok rossz atyafinál."
+    }, 
+    {
+        "eng": "The nail sticks out of the sack.", 
+        "eng_explain": "'One's real intention/purpose comes to the open.'", 
+        "hun_orig": "Kibújik a szög a zsákból."
+    }, 
+    {
+        "eng": "It hit a nail into his head.", 
+        "eng_explain": "'It set him thinking.'", 
+        "hun_orig": "Szöget ütött a fejébe."
+    }, 
+    {
+        "eng": "The grape is sour.", 
+        "hun_orig": "Savanyú a szőlő."
+    }, 
+    {
+        "eng": "He sweeps the problem under the carpet.", 
+        "hun_orig": "A szőnyeg alá söpri a kérdést/problémát."
+    }, 
+    {
+        "eng": "He makes an elephant out of a mosquito.", 
+        "hun_orig": "A szúnyogból is elefántot csinál."
+    }, 
+    {
+        "eng": "He forges/makes a virtue of necessity.", 
+        "hun_orig": "A szükségből erényt kovácsol/csinál."
+    }, 
+    {
+        "eng": "Where need is great, help is nearby.", 
+        "hun_orig": "Ahol nagy a szükség, közel a segítség."
+    }, 
+    {
+        "eng": "Necessity breaks the law.", 
+        "hun_orig": "Szükség törvényt bont."
+    }, 
+    {
+        "eng": "It was a difficult childbirth.", 
+        "eng_explain": "'It was very difficult to achieve it e. g. in a discussion.'", 
+        "hun_orig": "Nehéz szülés volt."
+    }, 
+    {
+        "eng": "His cloak was put out.", 
+        "eng_explain": "(He got the sack.)", 
+        "hun_orig": "Kitették a szűrét."
+    }, 
+    {
+        "eng": "Stretch yourself as far as your cover reaches.", 
+        "hun_orig": "Addig nyújtózz, ameddig a takaród ér."
+    }, 
+    {
+        "eng": "Dish and spoon cannot be without jingling.", 
+        "eng_explain": "'It is natural to have some disagreement between man and wife.'", 
+        "hun_orig": "Tál, kanál nem lehet csördületlen."
+    }, 
+    {
+        "eng": "He treads downwards [on his subordinates] and bows upwards [before his superiors].", 
+        "hun_orig": "Lefelé tapos és felfelé hajlong."
+    }, 
+    {
+        "eng": "All cows are black in the dark.", 
+        "hun_orig": "Sötétben minden tehén fekete."
+    }, 
+    {
+        "eng": "Even a heavy burden is light if lifted by many.", 
+        "hun_orig": "A nagy teher is könnyű, ha sokan emelik."
+    }, 
+    {
+        "eng": "It will soon show which milk will yield a good curd.", 
+        "eng_explain": "'A child's character and abilities become evident soon.'", 
+        "hun_orig": "Korán meglátszik, mely tejből lesz jó túró."
+    }, 
+    {
+        "eng": "It is not all sour cream down to the bottom.", 
+        "eng_explain": "'It is not all as good as it seems to be.'", 
+        "eng_explain2": "(Not all beer and skittles.)", 
+        "hun_orig": "Nem fenékig tejföl."
+    }, 
+    {
+        "eng": "He is as poor as a church mouse.", 
+        "hun_orig": "Szegény, mint a templom egere."
+    }, 
+    {
+        "eng": "Facts are stubborn things.", 
+        "hun_orig": "A tények makacs dolgok."
+    }, 
+    {
+        "eng": "To err is human.", 
+        "hun_orig": "Tévedni emberi dolog."
+    }, 
+    {
+        "eng": "Take what is yours, [but] not that of others.", 
+        "hun_orig": "Ami tiéd, tedd el, a másét ne vedd el."
+    }, 
+    {
+        "eng": "Learn steer, you will turn an ox.", 
+        "eng_explain": "'Keep studying hard, so that you may get on in life.'", 
+        "hun_orig": "Tanulj tinó, ökör lesz belőled."
+    }, 
+    {
+        "eng": "Cleanliness is half-health.", 
+        "hun_orig": "A tisztaság fél egészség."
+    }, 
+    {
+        "eng": "One of them is nineteen, the other is one less than twenty.", 
+        "eng_explain": "'They are equally bad.'", 
+        "hun_orig": "Egyik tizenkilenc, a másik egy híján húsz."
+    }, 
+    {
+        "eng": "He boasts with foreign feathers.", 
+        "hun_orig": "Idegen tollakkal ékeskedik."
+    }, 
+    {
+        "eng": "The great thief escapes (the gallow), the small one hangs.", 
+        "hun_orig": "A nagy tolvaj leszakad, de a kicsi felakad."
+    }, 
+    {
+        "eng": "The midwife should have cut his throat rather than his navel.", 
+        "hun_orig": "Jobb a torkát metszette volna meg a bába, mikor köldökét metszette meg."
+    }, 
+    {
+        "eng": "He does not even know whether it is a pumpkin or a curd-cake.", 
+        "eng_explain": "'He has no idea about it.'", 
+        "hun_explain": "(Azt se tudja, eszik-e vagy isszák.)", 
+        "hun_orig": "Azt se tudja tök-e vagy túrós étek."
+    }, 
+    {
+        "eng": "It is like throwing bur on a gourd.", 
+        "eng_explain": "'A vain effort.'", 
+        "hun_explain": "(Borsót hány a falra.)", 
+        "hun_orig": "Olyan, mintha tökre hánynál bojtorjánt."
+    }, 
+    {
+        "eng": "The wind fells the oak, but cannot cope with the reed.", 
+        "hun_orig": "Szél a tölgyet ledönti, de a náddal nem bír."
+    }, 
+    {
+        "eng": "He threw in the towel.", 
+        "eng_explain": "(He gave up the effort.)", 
+        "hun_orig": "Bedobta a törölközőt."
+    }, 
+    {
+        "eng": "Truth may be told in a joke too.", 
+        "hun_orig": "Tréfából is lehet igazat mondani."
+    }, 
+    {
+        "eng": "Knowledge is power.", 
+        "hun_orig": "A tudás hatalom."
+    }, 
+    {
+        "eng": "Patience brings roses.", 
+        "eng_explain": "(All things come to those who wait.)", 
+        "hun_orig": "A türelem rózsát terem."
+    }, 
+    {
+        "eng": "He is between two fires.", 
+        "hun_orig": "Két tűz között van."
+    }, 
+    {
+        "eng": "He who is close to the fire, will get warm best.", 
+        "hun_orig": "Aki közel van a tűzhöz, az jobban melegszik."
+    }, 
+    {
+        "eng": "It is not good to play with the fire.", 
+        "hun_orig": "A tűzzel nem jó játszani."
+    }, 
+    {
+        "eng": "He is doing a fireman's work.", 
+        "eng_explain": "'He is compelled to do something quickly, without proper preparation and consideration.'", 
+        "hun_orig": "Tűzoltó munkát végez."
+    }, 
+    {
+        "eng": "A hen that cackles much lays only a few eggs.", 
+        "hun_orig": "Amelyik tyúk sokat kotkodácsol, keveset tojik."
+    }, 
+    {
+        "eng": "He knows as much about it as a hen does about the alphabet.", 
+        "hun_orig": "Annyit ért hozzá, mint tyúk az ábécéhez."
+    }, 
+    {
+        "eng": "Truth is scraped out even by a hen.", 
+        "hun_orig": "Az igazságot a tyúk is kikaparja."
+    }, 
+    {
+        "eng": "Even a blind hen can find a grain.", 
+        "hun_orig": "Vak tyúk is talál szemet."
+    }, 
+    {
+        "eng": "It will not last longer than frying an egg.", 
+        "hun_orig": "Nem tart egy tyúkmonysültig (tojássültig)."
+    }, 
+    {
+        "eng": "Today (it is enough to do it) by one finger, tomorrow (it will be necessary) by ten nails.", 
+        "hun_orig": "Máma egy ujjal, holnap tíz körömmel."
+    }, 
+    {
+        "eng": "Even our fingers are not equal.", 
+        "hun_orig": "Az ujjunk sem egyforma."
+    }, 
+    {
+        "eng": "\"Régen rossz annak, aki feljebbvalójával vitába száll.\"", 
+        "eng_explain": "God is the doctor of the man who quarrels with his master.", 
+        "hun_orig": "Aki urával pöröl, Isten annak orvosa."
+    }, 
+    {
+        "eng": "A master is a master in hell as well.", 
+        "hun_orig": "Az úr a pokolban is úr."
+    }, 
+    {
+        "eng": "A master's request is a command.", 
+        "hun_orig": "Urak kérése parancsolat."
+    }, 
+    {
+        "eng": "It is not good to eat cherries from the same dish with persons of high rank.", 
+        "hun_orig": "Nem jó nagy urakkal egy tálból cseresznyézni."
+    }, 
+    {
+        "eng": "One cannot (It is difficult to) serve two masters.", 
+        "hun_orig": "Nem lehet (Nehéz) két úrnak szolgálni."
+    }, 
+    {
+        "eng": "Give me, my Lord, but do it immediately.", 
+        "eng_explain": "'An urgent request.'", 
+        "hun_orig": "Adj Uramisten, de rögtön!"
+    }, 
+    {
+        "eng": "There is a way upwards and downwards too.", 
+        "eng_explain": "'Leave immediately.'", 
+        "hun_orig": "Fel is út, le is út."
+    }, 
+    {
+        "eng": "The straight (i. e. honest) road is the best.", 
+        "hun_orig": "Legjobb az egyenes út."
+    }, 
+    {
+        "eng": "Don't leave the betrodden way for the untrodden one.", 
+        "hun_orig": "Járt utat a járatlanért el ne hagyd!"
+    }, 
+    {
+        "eng": "He has passed the road to Damascus.", 
+        "eng_explain": "'He has changed his conviction or allegiance.'", 
+        "hun_orig": "Megjárta a damaszkuszi utat."
+    }, 
+    {
+        "eng": "He gets green way.", 
+        "eng_explain": "(He gets green light.)", 
+        "hun_orig": "Zöld utat kap."
+    }, 
+    {
+        "eng": "Property gained unlawfully will be lost in the same way.", 
+        "hun_orig": "Ebül szerzett vagyon ebül vész el."
+    }, 
+    {
+        "eng": "He who has butter on his head, should not go to the sun.", 
+        "hun_orig": "Akinek vaj van a fején, ne menjen a napra."
+    }, 
+    {
+        "eng": "A blind leads a sightless.", 
+        "hun_orig": "Vak vezet világtalant."
+    }, 
+    {
+        "eng": "Among the blind the one-eyed is the king.", 
+        "hun_orig": "A vakok közt félszemű a király."
+    }, 
+    {
+        "eng": "Something is better than nothing.", 
+        "hun_orig": "Jobb valami, mint semmi."
+    }, 
+    {
+        "eng": "Something for something.", 
+        "eng_explain": "(Tit for tat.)", 
+        "hun_orig": "Valamit valamiért."
+    }, 
+    {
+        "eng": "Let the cobbler Paul grumble, he should only make good sandals.", 
+        "hun_orig": "Hadd morogjon Varga Pál, csak jó sarut varrjon."
+    }, 
+    {
+        "eng": "Cobbler, do not go beyond the last.", 
+        "hun_orig": "Varga, ne tovább a kaptafánál."
+    }, 
+    {
+        "eng": "He who wants to shoot at a crow, will not pluck his bow.", 
+        "hun_orig": "Aki varjat akar lőni, nem pengeti íját."
+    }, 
+    {
+        "eng": "Against a thousand crows one stone is enough.", 
+        "hun_orig": "Ezer varjú ellen elég egy kő."
+    }, 
+    {
+        "eng": "I have already seen a crow on a pole.", 
+        "eng_explain": "'I do not believe this boasting/exaggeration/menace.'", 
+        "hun_orig": "Láttam én már karón varjút."
+    }, 
+    {
+        "eng": "A crow does not pick out the crow's eye.", 
+        "hun_orig": "Varjú a varjúnak nem vágja ki a szemét."
+    }, 
+    {
+        "eng": "Strike the iron while it is warm.", 
+        "hun_orig": "Addig üsd a vasat, míg meleg."
+    }, 
+    {
+        "eng": "He keeps two/several irons in the fire.", 
+        "hun_orig": "Két/Több vasat tart a tűzben."
+    }, 
+    {
+        "eng": "The agreement depends on two persons.", 
+        "hun_orig": "Kettőn áll a vásár."
+    }, 
+    {
+        "eng": "He seizes the lighter end of the matter.", 
+        "hun_orig": "A könnyebb végét fogja a dolognak."
+    }, 
+    {
+        "eng": "He does not hide his opinion under a bushel.", 
+        "hun_orig": "Nem rejti véka alá a véleményét."
+    }, 
+    {
+        "eng": "If I say, it is pregnant, if I do not say, it is not pregnant.", 
+        "eng_explain": "'It depends on me whether I decide this or another way.'", 
+        "eng_explain2": "or 'I cannot see any good reason for deciding this or that way either'.", 
+        "hun_orig": "Ha akarom vemhes, ha akarom, nem vemhes."
+    }, 
+    {
+        "eng": "Even the most welcome guest is more than enough for three days.", 
+        "hun_orig": "Akármilyen kedves vendég, három napig untig elég."
+    }, 
+    {
+        "eng": "After three days the palace of the guest is behind the door (i. e. outside).", 
+        "hun_orig": "Harmadnapi vendégnek ajtó megett a helye."
+    }, 
+    {
+        "eng": "The place of an unbidden guest is behind the door.", 
+        "hun_orig": "Hívatlan vendégnek ajtó megett helye."
+    }, 
+    {
+        "eng": "Blood will not turn water.", 
+        "hun_orig": "A vér nem válik vízzé."
+    }, 
+    {
+        "eng": "Even the sparrows chirp it.", 
+        "eng_explain": "'It is an open secret.'", 
+        "hun_orig": "A verebek is csiripelik."
+    }, 
+    {
+        "eng": "Better a sparrow today than a bustard tomorrow.", 
+        "hun_orig": "Jobb ma egy veréb, mint holnap egy túzok."
+    }, 
+    {
+        "eng": "He who digs a pit for others, falls into it himself.", 
+        "hun_orig": "Aki másnak vermet ás, maga esik bele."
+    }, 
+    {
+        "eng": "A beaten one carries an unbeaten.", 
+        "eng_explain": "'The innocent has to suffer for the crime of a wrong-doer.'", 
+        "hun_orig": "Vert viszen veretlent."
+    }, 
+    {
+        "eng": "As one sows, so he reaps.", 
+        "hun_orig": "Ki mint vet, úgy arat."
+    }, 
+    {
+        "eng": "A storm in a glass of water.", 
+        "hun_orig": "Vihar egy pohár vízben."
+    }, 
+    {
+        "eng": "If Vincent begins to flow, then the cellar will be full.", 
+        "eng_explain": "'If the thaw sets in on Vincent day, then there will be much wine in the autumn.'", 
+        "hun_orig": "Ha megcsordul Vince, tele lesz a pince."
+    }, 
+    {
+        "eng": "Slow water washes away the bank.", 
+        "hun_orig": "Lassú víz partot mos."
+    }, 
+    {
+        "eng": "He is (not) like water shaking in a wash tub.", 
+        "eng_explain": "'He is (not) turning his coat according to the wind.'", 
+        "hun_explain": "([Nem] köpönyegforgató.)", 
+        "hun_orig": "(Nem) Olyan, mint a teknőben ingó víz."
+    }, 
+    {
+        "eng": "Much water will flow in the Danube until then.", 
+        "eng_explain": "'It is still far away.'", 
+        "hun_orig": "Sok víz lefolyik még addig a Dunán."
+    }, 
+    {
+        "eng": "Much water has run in the Danube since then.", 
+        "eng_explain": "'It happened long ago.'", 
+        "hun_orig": "Sok víz lefolyt azóta a Dunán."
+    }, 
+    {
+        "eng": "He preaches water and drinks wine.", 
+        "hun_orig": "Vizet prédikál és bort iszik."
+    }, 
+    {
+        "eng": "He could not earn enough to buy even cold water.", 
+        "eng_explain": "'If really efficient work were requested, then his work would not earn him cold water.'", 
+        "hun_orig": "A hideg vízre valót sem keresné meg."
+    }, 
+    {
+        "eng": "He that is afraid of water, will not eat fish.", 
+        "hun_orig": "Aki fél a víztől, nem eszik halat."
+    }, 
+    {
+        "eng": "He fishes in troubled waters.", 
+        "hun_orig": "A zavarosban halászik."
+    }, 
+    {
+        "eng": "The sack has found its patch.", 
+        "eng_explain": "'People of the same similar ideas have found each other.'", 
+        "hun_orig": "Megtalálta zsák a foltját."
+    }, 
+    {
+        "eng": "'He sells/buys a cat in a poke.'", 
+        "hun_orig": "Zsákbamacskát árul/vesz."
+    }
+]
